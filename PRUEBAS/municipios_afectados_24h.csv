@@ -1,403 +1,229 @@
 tipo,latitude,longitude,bright,date,admin2,admin3,country_code,country_es
-24h,51.40054,-3.39549,297.35,2023-03-30,East Aberthaw,Cymru / Wales,GB,Reino Unido
-24h,43.1804,-1.40273,310.86,2023-03-30,Baztan,Navarra - Nafarroa,ES,España
-24h,43.03665,-2.21925,296.82,2023-03-30,Olaberria,Gipuzkoa,ES,España
-24h,43.20081,-3.67366,298.72,2023-03-30,Soba,Cantabria,ES,España
-24h,43.12258,-3.68646,326.58,2023-03-30,Espinosa de los Monteros,Burgos,ES,España
-24h,43.17345,-3.85075,304.85,2023-03-30,Vega de Pas,Cantabria,ES,España
-24h,43.10799,-3.74529,299.89,2023-03-30,Merindad de Valdeporres,Burgos,ES,España
-24h,43.1017,-3.7462,328.1,2023-03-30,Merindad de Sotoscueva,Burgos,ES,España
-24h,43.26438,-4.29352,298.64,2023-03-30,Ruente,Cantabria,ES,España
-24h,43.17216,-4.01483,296.71,2023-03-30,Arenas de Iguña,Cantabria,ES,España
-24h,43.15541,-3.97706,322.57,2023-03-30,Molledo,Cantabria,ES,España
-24h,43.42122,-5.09465,302.73,2023-03-30,Parres,Asturias / Asturies,ES,España
-24h,43.36074,-4.89058,311.29,2023-03-30,Llanes,Asturias / Asturies,ES,España
-24h,43.22359,-4.43377,296.46,2023-03-30,Rionansa,Cantabria,ES,España
-24h,43.16346,-4.31976,298.67,2023-03-30,Cabuérniga,Cantabria,ES,España
-24h,43.15369,-4.3087,320.38,2023-03-30,NA,Cantabria,ES,España
-24h,43.37266,-5.03397,300.5,2023-03-30,Cangas de Onís,Asturias / Asturies,ES,España
-24h,43.36712,-5.09262,325.4,2023-03-30,Cangas de Onís / Cangues d'Onís,Asturias / Asturies,ES,España
-24h,43.25323,-4.72668,326.33,2023-03-30,Tresviso,Cantabria,ES,España
-24h,43.29335,-4.86224,313.62,2023-03-30,Cabrales,Asturias / Asturies,ES,España
-24h,43.19307,-4.65063,295.54,2023-03-30,Cillorigo de Liébana,Cantabria,ES,España
-24h,43.33948,-5.32948,323.6,2023-03-30,Piloña,Asturias / Asturies,ES,España
-24h,43.28321,-5.1563,345.38,2023-03-30,Ponga,Asturias / Asturies,ES,España
-24h,43.3409,-5.48002,296.19,2023-03-30,Nava,Asturias / Asturies,ES,España
-24h,43.25443,-5.30733,343.28,2023-03-30,Caso,Asturias / Asturies,ES,España
-24h,43.46202,-6.20338,305.81,2023-03-30,Pravia,Asturias / Asturies,ES,España
-24h,43.27324,-5.55851,329.9,2023-03-30,Laviana,Asturias / Asturies,ES,España
-24h,43.21381,-5.47729,329.2,2023-03-30,Sobrescobio,Asturias / Asturies,ES,España
-24h,43.29616,-5.86505,311.76,2023-03-30,Ribera de Arriba,Asturias / Asturies,ES,España
-24h,43.36518,-6.12643,295.08,2023-03-30,Grau/Grado,Asturias / Asturies,ES,España
-24h,43.4651,-6.51976,323.48,2023-03-30,Valdés,Asturias / Asturies,ES,España
-24h,43.46077,-6.54851,303.83,2023-03-30,Luarca/Ḷḷuarca,Asturias / Asturies,ES,España
-24h,43.44349,-6.54733,334.02,2023-03-30,Tineo,Asturias / Asturies,ES,España
-24h,43.27953,-5.96105,340.87,2023-03-30,Santo Adriano,Asturias / Asturies,ES,España
-24h,43.2715,-5.95335,311.11,2023-03-30,Morcín,Asturias / Asturies,ES,España
-24h,43.31324,-6.26515,325.04,2023-03-30,Belmonte de Miranda,Asturias / Asturies,ES,España
-24h,43.26378,-6.0907,305.77,2023-03-30,Yernes y Tameza,Asturias / Asturies,ES,España
-24h,43.38806,-6.6977,326.99,2023-03-30,Villayón,Asturias / Asturies,ES,España
-24h,43.11406,-5.73834,321.37,2023-03-30,Aller,Asturias / Asturies,ES,España
-24h,43.29573,-6.62894,340.97,2023-03-30,Allande,Asturias / Asturies,ES,España
-24h,43.18507,-6.23563,354.31,2023-03-30,Somiedo,Asturias / Asturies,ES,España
-24h,43.50689,-7.4174,326.07,2023-03-30,Alfoz,Lugo,ES,España
-24h,43.00379,-5.74836,342.6,2023-03-30,Villamanín,León,ES,España
-24h,43.19344,-6.63103,299.07,2023-03-30,Cangas del Narcea,Asturias / Asturies,ES,España
-24h,43.1149,-7.23213,304.08,2023-03-30,Baleira,Lugo,ES,España
-24h,43.093,-7.19253,300.8,2023-03-30,A Fonsagrada,Lugo,ES,España
-24h,42.28313,-6.69739,320.4,2023-03-30,Encinedo,León,ES,España
-24h,40.24608,-3.47464,310.43,2023-03-30,Morata de Tajuña,Comunidad de Madrid,ES,España
-24h,38.92218,-9.01377,306.26,2023-03-30,Sobralinho,Lisboa,PT,Portugal
-24h,38.92104,-9.00953,308.11,2023-03-30,Alhandra,Lisboa,PT,Portugal
-24h,38.92083,-9.01187,323.66,2023-03-30,"Alhandra, São João dos Montes e Calhandriz",Lisboa,PT,Portugal
-24h,38.50191,-8.9376,297.05,2023-03-30,Setúbal,Setúbal,PT,Portugal
-24h,37.36343,-5.9398,296.17,2023-03-30,Alcalá de Guadaíra,Sevilla,ES,España
-24h,65.56426,22.2259,324.92,2023-03-30,Luleå,Norrbottens län,SE,Suecia
-24h,53.13485,8.68224,298.62,2023-03-30,Bremen,Bremen,DE,Alemania
-24h,50.93001,21.67314,295.5,2023-03-30,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
-24h,53.63562,-0.24649,298.25,2023-03-30,South Killingholme,England,GB,Reino Unido
-24h,52.35447,9.88899,296.03,2023-03-30,Sehnde,Niedersachsen,DE,Alemania
-24h,52.20857,8.04579,313.88,2023-03-30,Georgsmarienhütte,Niedersachsen,DE,Alemania
-24h,51.69822,8.74878,297.38,2023-03-30,Paderborn,Nordrhein-Westfalen,DE,Alemania
-24h,51.6169,8.51206,300.02,2023-03-30,Geseke,Nordrhein-Westfalen,DE,Alemania
-24h,51.59481,8.33452,301.23,2023-03-30,Erwitte,Nordrhein-Westfalen,DE,Alemania
-24h,52.64119,-8.69342,299.65,2023-03-30,Limerick,County Limerick,IE,Irlanda
-24h,51.52934,7.71672,314.54,2023-03-30,Unna,Nordrhein-Westfalen,DE,Alemania
-24h,51.50815,6.73692,299.14,2023-03-30,Duisburg,Nordrhein-Westfalen,DE,Alemania
-24h,51.16481,4.33368,295.46,2023-03-30,Hoboken,Antwerpen,BE,Bélgica
-24h,50.47382,3.98813,306.34,2023-03-30,Mons,Hainaut,BE,Bélgica
-24h,49.66067,2.216,320.01,2023-03-30,Clermont,Hauts-de-France,FR,Francia
-24h,46.25114,3.42628,297.99,2023-03-30,Vichy,Auvergne-Rhône-Alpes,FR,Francia
-24h,41.64884,15.43185,299.2,2023-03-30,San Severo,Puglia,IT,Italia
-24h,41.33671,16.2018,296.77,2023-03-30,Margherita di Savoia,Barletta-Andria-Trani,IT,Italia
-24h,43.44918,4.89757,330.18,2023-03-30,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,40.63089,18.00171,295.01,2023-03-30,Brindisi,Puglia,IT,Italia
-24h,40.50304,17.20635,300.87,2023-03-30,Taranto,Puglia,IT,Italia
-24h,43.53014,-5.72816,308.85,2023-03-30,Gijón/Xixón,Asturias / Asturies,ES,España
-24h,43.42688,-5.09238,295.5,2023-03-30,Ribeseya,Asturias / Asturies,ES,España
-24h,43.45149,-5.83482,340.56,2023-03-30,Llanera,Asturias / Asturies,ES,España
-24h,43.40767,-5.20466,304.64,2023-03-30,Arriondas / Les Arriondes,Asturias / Asturies,ES,España
-24h,42.82602,1.25361,297.47,2023-03-30,Ustou,Occitanie,FR,Francia
-24h,43.27532,-4.27065,322.37,2023-03-30,Cabezón de la Sal,Cantabria,ES,España
-24h,43.2749,-4.26426,345.29,2023-03-30,Ucieda,Cantabria,ES,España
-24h,43.29105,-4.51385,299.24,2023-03-30,Herrerías,Cantabria,ES,España
-24h,43.25036,-4.11404,306.47,2023-03-30,Los Corrales de Buelna,Cantabria,ES,España
-24h,43.21235,-4.12578,325.65,2023-03-30,Cieza,Cantabria,ES,España
-24h,43.1911,-4.68243,349.73,2023-03-30,Camaleño,Cantabria,ES,España
-24h,43.12728,-4.45169,315.65,2023-03-30,Polaciones,Cantabria,ES,España
-24h,43.16384,-5.86866,295.74,2023-03-30,Lena,Asturias / Asturies,ES,España
-24h,43.12277,-6.11012,319.96,2023-03-30,Teverga,Asturias / Asturies,ES,España
-24h,41.45576,1.97866,308.29,2023-03-30,Castellbisbal,Barcelona,ES,España
-24h,38.79353,15.21516,295.7,2023-03-30,Lipari,Sicilia,IT,Italia
-24h,41.31157,1.66204,315.42,2023-03-30,Santa Margarida i els Monjos,Barcelona,ES,España
-24h,41.47508,-1.48851,302.56,2023-03-30,Morata de Jalón,Zaragoza,ES,España
-24h,41.11059,1.17466,315.67,2023-03-30,la Canonja,Tarragona,ES,España
-24h,38.20428,15.26509,298.67,2023-03-30,Milazzo,Sicilia,IT,Italia
-24h,38.0009,14.2691,306.97,2023-03-30,Castel di Tusa,Sicilia,IT,Italia
-24h,39.08211,9.01947,301.6,2023-03-30,Sarroccu/Sarroch,Sardigna/Sardegna,IT,Italia
-24h,37.43785,15.02722,304.37,2023-03-30,Catania,Sicilia,IT,Italia
-24h,36.9023,14.72556,298.8,2023-03-30,Ragusa,Sicilia,IT,Italia
-24h,38.37693,-0.54171,296.77,2023-03-30,Alacant / Alicante,Alacant / Alicante,ES,España
-24h,38.62861,-9.07958,297.33,2023-03-30,Seixal,Setúbal,PT,Portugal
-24h,36.96816,-1.90461,298.88,2023-03-30,Carboneras,Almería,ES,España
-24h,52.4004,12.50322,329.33,2023-03-30,Brandenburg an der Havel,Brandenburg,DE,Alemania
-24h,47.32042,27.35553,326.16,2023-03-30,Zona Metropolitană Iași,Iași,RO,Rumanía
-24h,36.99347,29.74485,343.04,2023-03-30,Çavdır,Burdur,TR,Turquía
-24h,38.73614,26.94863,333.11,2023-03-30,Aliağa,Ege Bölgesi,TR,Turquía
-24h,37.82727,15.17603,333.57,2023-03-30,Piedimonte Etneo,Sicilia,IT,Italia
-24h,37.996339999999996,15.74566,337.63,2023-03-30,Montebello Jonico,Calabria,IT,Italia
-24h,40.44318,27.14228,332,2023-03-30,Biga,Çanakkale,TR,Turquía
-24h,41.18988,32.61853,326.11,2023-03-30,Karabük,Karabük,TR,Turquía
-24h,40.8215,26.27441,328.75,2023-03-30,İpsala,Edirne,TR,Turquía
-24h,41.1003,27.59951,340.53,2023-03-30,Muratlı,Marmara Bölgesi,TR,Turquía
-24h,41.25502,26.34107,329.18,2023-03-30,Meriç,Edirne,TR,Turquía
-24h,39.06055,8.57395,325.62,2023-03-30,Giba,Sulcis Iglesiente,IT,Italia
-24h,39.82043,8.6338,332.04,2023-03-30,Arborea,Sardigna/Sardegna,IT,Italia
-24h,43.70572,25.10548,333.22,2023-03-30,Năvodari,Teleorman,RO,Rumanía
-24h,43.83584,25.84716,332.32,2023-03-30,Slobozia,Giurgiu,RO,Rumanía
-24h,44.12879,26.72626,333.12,2023-03-30,Oltenița,Călărași,RO,Rumanía
-24h,44.18995,26.4928,327.19,2023-03-30,Radovanu,Călărași,RO,Rumanía
-24h,43.90984,23.93725,330.22,2023-03-30,Sadova,Dolj,RO,Rumanía
-24h,40.50739,8.47564,330.17,2023-03-30,Biddanoa Monteleone/Villanova Monteleone,Sardigna/Sardegna,IT,Italia
-24h,44.62453,26.82118,330.46,2023-03-30,Butoiu,Ialomița,RO,Rumanía
-24h,44.90836,27.856,332.64,2023-03-30,Stăncuța,Brăila,RO,Rumanía
-24h,44.23717,22.83111,327.87,2023-03-30,Vrata,Mehedinți,RO,Rumanía
-24h,44.51731,24.14538,333.88,2023-03-30,Cârlogani,Olt,RO,Rumanía
-24h,44.96964,27.38755,331.49,2023-03-30,Vultureni,Brăila,RO,Rumanía
-24h,45.0708,27.77915,335.91,2023-03-30,Valea Cânepii,Brăila,RO,Rumanía
-24h,44.88199,25.76004,334.54,2023-03-30,Vlădeni,Dâmbovița,RO,Rumanía
-24h,45.04748,26.48041,333.97,2023-03-30,Fințești,Buzău,RO,Rumanía
-24h,44.85179,24.9878,330.08,2023-03-30,Văleni-Podgoria,Argeș,RO,Rumanía
-24h,44.63326,23.30547,330.57,2023-03-30,Fața Motrului,Mehedinți,RO,Rumanía
-24h,44.96967,25.54961,331.2,2023-03-30,Ocnița,Dâmbovița,RO,Rumanía
-24h,45.16786,26.43574,328.14,2023-03-30,Glod,Prahova,RO,Rumanía
-24h,44.81311,23.83972,332.28,2023-03-30,Pârâienii de Mijloc,Vâlcea,RO,Rumanía
-24h,45.42591,27.96663,328.53,2023-03-30,Galați,Galați,RO,Rumanía
-24h,44.87333,23.69394,337.02,2023-03-30,Logrești,Gorj,RO,Rumanía
-24h,45.45829,27.65715,336.36,2023-03-30,Corbu Vechi,Brăila,RO,Rumanía
-24h,45.24482,25.58995,343.87,2023-03-30,Comarnic,Prahova,RO,Rumanía
-24h,45.02376,23.90327,332.08,2023-03-30,Berbești,Vâlcea,RO,Rumanía
-24h,45.07289,24.0051,331.57,2023-03-30,Oteșani,Vâlcea,RO,Rumanía
-24h,45.56995,26.89312,339.37,2023-03-30,Motnău,Vrancea,RO,Rumanía
-24h,45.61676,26.92666,326.55,2023-03-30,Dealul Lung,Vrancea,RO,Rumanía
-24h,45.73946,24.91483,325.59,2023-03-30,Gura Văii,Brașov,RO,Rumanía
-24h,46.01737,25.36738,335.98,2023-03-30,Mateiaș,Brașov,RO,Rumanía
-24h,45.99259,24.00238,335.39,2023-03-30,Armeni,Sibiu,RO,Rumanía
-24h,46.08258,24.29839,325.32,2023-03-30,Valea Viilor,Sibiu,RO,Rumanía
-24h,46.27006,23.91433,326.12,2023-03-30,Lopadea Nouă,Alba,RO,Rumanía
-24h,46.31063,23.9881,338.91,2023-03-30,Alecuș,Alba,RO,Rumanía
-24h,46.35163,24.20619,342.42,2023-03-30,Adămuș,Mureș,RO,Rumanía
-24h,46.31649,23.74172,333.55,2023-03-30,Aiud,Alba,RO,Rumanía
-24h,47.31049,26.54022,330.77,2023-03-30,Drăgușeni,Suceava,RO,Rumanía
-24h,51.16847,3.81195,332.49,2023-03-30,Gent,Oost-Vlaanderen,BE,Bélgica
-24h,53.39793,-1.38759,333.68,2023-03-30,Sheffield,South Yorkshire Mayoral Combined Authority,GB,Reino Unido
-24h,37.28188,-5.49897,335.33,2023-03-30,Paradas,Sevilla,ES,España
-24h,38.08902,-1.29469,332.63,2023-03-30,Ceutí,Región de Murcia,ES,España
-24h,37.2576,-6.51868,334.42,2023-03-30,Almonte,Huelva,ES,España
-24h,38.19181,-4.5326,332.08,2023-03-30,Adamuz,Córdoba,ES,España
-24h,38.61736,-6.65933,335.36,2023-03-30,Santa Marta,Badajoz,ES,España
-24h,39.59975,-2.79917,336.34,2023-03-30,Los Hinojosos,Cuenca,ES,España
-24h,39.10102,-5.61838,331.96,2023-03-30,Acedera,Badajoz,ES,España
-24h,40.17167,-3.03304,341.49,2023-03-30,Illana,Guadalajara,ES,España
-24h,40.79375,-1.78253,337.87,2023-03-30,Prados Redondos,Guadalajara,ES,España
-24h,40.1626,-5.90054,326.16,2023-03-30,Rebollar,Cáceres,ES,España
-24h,40.16647,-5.901,331.64,2023-03-30,Navaconcejo,Cáceres,ES,España
-24h,40.74682,-2.96841,332.19,2023-03-30,Brihuega,Guadalajara,ES,España
-24h,42.36038,9.46727,339.02,2023-03-30,Corte,Corse,FR,Francia
-24h,40.90339,-2.98386,347.51,2023-03-30,Membrillera,Guadalajara,ES,España
-24h,41.69598,-0.98453,332.13,2023-03-30,Zaragoza,Zaragoza,ES,España
-24h,42.12322,-0.36456,340.44,2023-03-30,Tierz,Huesca,ES,España
-24h,42.53289,0.53068,350.34,2023-03-30,Bisaurri,Huesca,ES,España
-24h,42.33035,-1.32048,343.97,2023-03-30,Castiliscar,Zaragoza,ES,España
-24h,43.50266,5.80144,337.1,2023-03-30,Brignoles,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,42.19294,-4.23583,330.82,2023-03-30,Astudillo,Palencia,ES,España
-24h,42.8387,-0.5254,367,2023-03-30,Oloron-Sainte-Marie,Nouvelle-Aquitaine,FR,Francia
-24h,43.04411,-1.13855,340.38,2023-03-30,Bayonne,Nouvelle-Aquitaine,FR,Francia
-24h,43.27313,-2.02255,336.67,2023-03-30,Lasarte-Oria,Gipuzkoa,ES,España
-24h,50.0384,18.47858,296.7,2023-03-30,Radlin,województwo śląskie,PL,Polonia
-24h,41.26736,31.42409,311.4,2023-03-30,Ereğli,Zonguldak,TR,Turquía
-24h,41.62925,27.68539,295.85,2023-03-30,Vize,Kırklareli,TR,Turquía
-24h,41.02059,28.55733,306.22,2023-03-30,Büyükçekmece,İstanbul,TR,Turquía
-24h,40.78073,29.60372,297.54,2023-03-30,Körfez,Kocaeli,TR,Turquía
-24h,40.80024,29.37557,295.26,2023-03-30,Darıca,Kocaeli,TR,Turquía
-24h,39.83773,30.2992,295.58,2023-03-30,Bozüyük,Bilecik,TR,Turquía
-24h,37.9408,32.53448,300.25,2023-03-30,Selçuklu,Konya,TR,Turquía
-24h,38.42714,27.21611,307.24,2023-03-30,Bornova,Ege Bölgesi,TR,Turquía
-24h,37.86335,29.3739,299.94,2023-03-30,Karapınar,Denizli,TR,Turquía
-24h,36.87115,34.76601,307.04,2023-03-30,Akdeniz,Mersin,TR,Turquía
-24h,37.64708,29.00441,300.79,2023-03-30,Vakıf,Denizli,TR,Turquía
-24h,36.93522,30.6485,321.14,2023-03-30,Kepez,Antalya,TR,Turquía
-24h,52.31654,10.25373,297.77,2023-03-31,Peine,Niedersachsen,DE,Alemania
-24h,52.16495,10.43013,309,2023-03-31,Salzgitter,Niedersachsen,DE,Alemania
-24h,52.46691,7.31911,317.42,2023-03-31,Lingen (Ems),Niedersachsen,DE,Alemania
-24h,52.20948,8.04824,307.06,2023-03-31,Georgsmarienhütte,Niedersachsen,DE,Alemania
-24h,50.53572,17.97904,295.18,2023-03-31,gmina Gogolin,województwo opolskie,PL,Polonia
-24h,50.4177,18.14359,298.07,2023-03-31,Zdzieszowice,województwo opolskie,PL,Polonia
-24h,50.41429,18.14196,300.45,2023-03-31,gmina Zdzieszowice,województwo opolskie,PL,Polonia
-24h,49.78726,18.32692,301.55,2023-03-31,Ostrava,Moravskoslezsko,CZ,Rep. Checa
-24h,49.69006,18.65303,313.94,2023-03-31,Třinec,Moravskoslezsko,CZ,Rep. Checa
-24h,49.89647,15.63872,297.83,2023-03-31,okres Chrudim,Severovýchod,CZ,Rep. Checa
-24h,45.3756,30.92386,328.58,2023-03-31,NA,NA,NA,Mundo
-24h,49.95435,9.76853,298.04,2023-03-31,Karlstadt,Bayern,DE,Alemania
-24h,48.2846,14.32809,296.5,2023-03-31,Linz,Oberösterreich,AT,Austria
-24h,46.93917,18.94522,306.16,2023-03-31,Dunaújváros,Fejér vármegye,HU,Hungría
-24h,45.46307,10.45609,296.58,2023-03-31,Lonato del Garda,Lombardia,IT,Italia
-24h,45.43576,8.79621,296.97,2023-03-31,Trecate,Piemonte,IT,Italia
-24h,45.14571,9.94271,325.96,2023-03-31,Spinadesco,Lombardia,IT,Italia
-24h,42.57296,12.67497,304.52,2023-03-31,Terni,Umbria,IT,Italia
-24h,43.54648,-6.42793,296.58,2023-03-31,Valdés,Asturias / Asturies,ES,España
-24h,43.53708,-5.83247,313.88,2023-03-31,Carreño,Asturias / Asturies,ES,España
-24h,43.51932,-6.52822,352.51,2023-03-31,Luarca/Ḷḷuarca,Asturias / Asturies,ES,España
-24h,43.52498,-5.73318,299.66,2023-03-31,Gijón/Xixón,Asturias / Asturies,ES,España
-24h,43.42619,-5.74589,348.49,2023-03-31,Siero,Asturias / Asturies,ES,España
-24h,43.42279,-6.53882,309.33,2023-03-31,Tineo,Asturias / Asturies,ES,España
-24h,43.42042,-5.86412,318.11,2023-03-31,Llanera,Asturias / Asturies,ES,España
-24h,40.62725,18.00149,300.6,2023-03-31,Brindisi,Puglia,IT,Italia
-24h,43.38728,-5.86285,367,2023-03-31,Oviedo,Asturias / Asturies,ES,España
-24h,43.38002,-5.02968,295.69,2023-03-31,Cangas de Onís,Asturias / Asturies,ES,España
-24h,43.37337,-5.10662,314.11,2023-03-31,Cangas de Onís / Cangues d'Onís,Asturias / Asturies,ES,España
-24h,43.3655,-6.13032,302.38,2023-03-31,Grau/Grado,Asturias / Asturies,ES,España
-24h,43.35033,-4.87561,301.53,2023-03-31,Cabrales,Asturias / Asturies,ES,España
-24h,43.35885,-6.13996,295.59,2023-03-31,Belmonte de Miranda,Asturias / Asturies,ES,España
-24h,43.35315,-6.3387,302.72,2023-03-31,Salas,Asturias / Asturies,ES,España
-24h,43.33942,-5.44563,334.25,2023-03-31,Nava,Asturias / Asturies,ES,España
-24h,43.33274,-5.43004,344.77,2023-03-31,Piloña,Asturias / Asturies,ES,España
-24h,43.32933,-5.16253,367,2023-03-31,Parres,Asturias / Asturies,ES,España
-24h,43.29068,-5.89155,308.04,2023-03-31,Morcín,Asturias / Asturies,ES,España
-24h,43.26235,-4.72231,309.19,2023-03-31,Peñamellera Alta,Asturias / Asturies,ES,España
-24h,43.26221,-4.71558,302.28,2023-03-31,Tresviso,Cantabria,ES,España
-24h,43.25406,-5.36324,329.55,2023-03-31,Caso,Asturias / Asturies,ES,España
-24h,43.23716,-4.72049,299.18,2023-03-31,Cillorigo de Liébana,Cantabria,ES,España
-24h,43.23968,-5.25865,295.54,2023-03-31,Ponga,Asturias / Asturies,ES,España
-24h,43.21478,-4.2452,328.03,2023-03-31,Ruente,Cantabria,ES,España
-24h,43.20996,-5.47543,303.91,2023-03-31,Sobrescobio,Asturias / Asturies,ES,España
-24h,43.17326,-4.32038,321.84,2023-03-31,Cabuérniga,Cantabria,ES,España
-24h,43.16894,-5.79656,300.99,2023-03-31,Lena,Asturias / Asturies,ES,España
-24h,43.16883,-5.78591,308.77,2023-03-31,Aller,Asturias / Asturies,ES,España
-24h,40.51772,17.20911,304.91,2023-03-31,Taranto,Puglia,IT,Italia
-24h,43.10471,-6.06007,335.42,2023-03-31,Teverga,Asturias / Asturies,ES,España
-24h,38.76574,16.3593,300.93,2023-03-31,Filadelfia,Calabria,IT,Italia
-24h,38.79321,15.20995,327.38,2023-03-31,Lipari,Sicilia,IT,Italia
-24h,39.08334,9.01849,296.5,2023-03-31,Sarroccu/Sarroch,Sardigna/Sardegna,IT,Italia
-24h,37.83209,15.17086,299.5,2023-03-31,Piedimonte Etneo,Sicilia,IT,Italia
-24h,37.4396,15.02864,310.66,2023-03-31,Catania,Sicilia,IT,Italia
-24h,37.20898,15.17041,306,2023-03-31,Melilli,Sicilia,IT,Italia
-24h,37.12284,15.21968,297.3,2023-03-31,Priolo Gargallo,Sicilia,IT,Italia
-24h,36.96813,-1.90361,299.25,2023-03-31,Carboneras,Almería,ES,España
-24h,37.17856,-6.89672,296.91,2023-03-31,Palos de la Frontera,Huelva,ES,España
-24h,65.565,22.22086,333.73,2023-03-31,Luleå,Norrbottens län,SE,Suecia
-24h,63.41014,8.68536,323.33,2023-03-31,Aure,Møre og Romsdal,NO,Noruega
-24h,63.31943,9.14471,302.37,2023-03-31,Heim,Trøndelag,NO,Noruega
-24h,57.58789,-1.8425,338.03,2023-03-31,St Fergus,Alba / Scotland,GB,Reino Unido
-24h,47.30528,-2.14541,323.27,2023-03-31,Saint-Nazaire,Pays de la Loire,FR,Francia
-24h,43.03793,-2.21903,297.83,2023-03-31,Olaberria,Gipuzkoa,ES,España
-24h,43.17387,-3.82812,320.06,2023-03-31,Vega de Pas,Cantabria,ES,España
-24h,43.17971,-3.89081,328.82,2023-03-31,Santiurde de Toranzo,Cantabria,ES,España
-24h,43.13921,-3.81309,304.62,2023-03-31,San Pedro del Romeral,Cantabria,ES,España
-24h,43.10898,-3.73614,320.03,2023-03-31,Merindad de Valdeporres,Burgos,ES,España
-24h,43.15847,-3.967,322.96,2023-03-31,Arenas de Iguña,Cantabria,ES,España
-24h,43.15655,-3.97933,321.6,2023-03-31,Molledo,Cantabria,ES,España
-24h,43.12366,-4.0097,339.72,2023-03-31,Silió,Cantabria,ES,España
-24h,43.17401,-4.27388,296.53,2023-03-31,Correpoco,Cantabria,ES,España
-24h,43.49208,-6.78207,324.34,2023-03-31,Coaña,Asturias / Asturies,ES,España
-24h,43.26772,-6.12601,295.46,2023-03-31,Yernes y Tameza,Asturias / Asturies,ES,España
-24h,43.3918,-6.71876,299.81,2023-03-31,Villayón,Asturias / Asturies,ES,España
-24h,43.03506,-6.15003,296.62,2023-03-31,Somiedo,Asturias / Asturies,ES,España
-24h,40.24479,-3.47344,311.55,2023-03-31,Morata de Tajuña,Comunidad de Madrid,ES,España
-24h,39.20623,-5.30194,297.53,2023-03-31,Casas de Don Pedro,Badajoz,ES,España
-24h,37.36279,-5.86436,299.84,2023-03-31,Alcalá de Guadaíra,Sevilla,ES,España
-24h,35.34793,5.7609,333.01,2023-03-30,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
-24h,35.0955,5.64663,309.67,2023-03-30,Djemorah ⴵⵎⵓⵔⴰ Jamura,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,34.98144,5.71474,312.59,2023-03-30,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,35.81611,-0.26728,325.8,2023-03-30,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.77443,-0.25896,305.65,2023-03-30,Mersat el hadjadj ⵎⴻⵔⵙⴰ ⵍⵃⴻⴵⴵⴰⴵ marsa al -hajjaj,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.53065,-0.27818,300.04,2023-03-30,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
-24h,35.56642,-0.93945,303.93,2023-03-30,Boutlessis ⴱⵓⵜⵍⵉⵍⵉⵙ Potlis,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.51023,-0.5947,296.01,2023-03-30,Tafraoui ⵟⴰⴼⵔⴰⵡⵉ Tafrawi,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.46014,-0.39543,313.51,2023-03-30,Zahan ⵣⴻⵀⵀⴰⵏⴰ زھانة,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
-24h,34.44063,5.88882,302.01,2023-03-30,Oumache ⵓⵎⵎⴰⵛ omash,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,34.80009,0.32796,295.71,2023-03-30,El Hessasna ⵍⴻⵃⵙⴰⵙⵏⴰ Sensible,Saïda ⵙⵄⵉⴷⴰ feliz,DZ,Argelia
-24h,34.43866,2.05866,304.69,2023-03-30,Beidha ⴱⴻⵢⴹⴰ White,Lghouat ⵍⴻⵖⵡⴰⵟ laghouat,DZ,Argelia
-24h,35.00304,-5.96862,296.01,2023-03-30,Cathuth salió de la holgazanería.,Provincia de Larache Región de Larache,MA,Marruecos
-24h,34.59566,-2.34774,303.47,2023-03-30,Apóstoles de rislano,Provincia de Berkane Berkane Región,MA,Marruecos
-24h,51.89344,29.33667,343.15,2023-03-30,Consejo de la aldea de Michalkovsky,Región de Gomel,BY,Bielorrusia
-24h,50.54648,26.26315,295.14,2023-03-30,Zdolbunov,Región de Rivne,UA,Ucrania
-24h,42.71581,24.17152,306.72,2023-03-30,Depósito,Sofía,BG,Bulgaria
-24h,37.2584,9.85215,295.57,2023-03-30,NA,Delegación de Southern Bizerte,TN,Túnez
-24h,36.67925,9.92025,297.5,2023-03-30,Ritual,Delegación de Al -Mortaga,TN,Túnez
-24h,36.50036,10.02785,297.65,2023-03-30,Estación Bir Masharqa,La delegación de Bir Masharqa,TN,Túnez
-24h,36.99994,6.32436,328.15,2023-03-30,Laouinet,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,36.87786,6.94156,304.34,2023-03-30,Skikda ⵙⴽⵉⴽⴷⴰ skikda,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,36.76199,7.30855,314.85,2023-03-30,Bekkouche Lakhdar ⴱⴻⴽⴽⵓⵛ ⵍⴻⵅⴹⴻⵔ Green Kush,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,36.7465,6.25724,326.59,2023-03-30,El Milia ⵍⵎⵉⵍⵉⵢⴰ milla,Jijel ⵉⵖⵉⵍ ⴳⵉⵍⵉ jijel,DZ,Argelia
-24h,36.44495,6.57724,306.13,2023-03-30,Hamma bouziane ⵃⴰⵎⴰ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ,Constantino ⵇⵙⴻⵏⵟⵉⵏⴰ Constantino,DZ,Argelia
-24h,36.62986,5.33861,298.76,2023-03-30,Souk el tenine,Béjaïa ⴲⴳⴰⵢⴻⵝ bejaia,DZ,Argelia
-24h,36.22074,6.56318,303.5,2023-03-30,El Khroub ⵍⴻⵅⵔⵓⴱ Carob,Constantino ⵇⵙⴻⵏⵟⵉⵏⴰ Constantino,DZ,Argelia
-24h,36.74773,3.08215,308.64,2023-03-30,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ a,Alger Argelia,DZ,Argelia
-24h,36.33446,5.48191,315.01,2023-03-30,Beni Fouda,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
-24h,36.66138,3.06814,311.74,2023-03-30,Cuartel,Alger Argelia,DZ,Argelia
-24h,36.39863,4.55048,305.28,2023-03-30,Aït r'zine,Béjaïa ⴲⴳⴰⵢⴻⵝ bejaia,DZ,Argelia
-24h,36.60039,3.13597,302.54,2023-03-30,Larbâa ⵍⴰⵔⴱⵄⴰ miércoles,Blida Blida,DZ,Argelia
-24h,36.17617,5.57181,303.99,2023-03-30,OULD SABOR ⵡⵍⴰⴷ ⵚⴰⴱⴻⵔ Hijos de Saber,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
-24h,36.5982,2.87723,321.37,2023-03-30,Boufarik ⴱⵓ ⴼⴰⵔⵉⴽ boufarik,Blida Blida,DZ,Argelia
-24h,36.1791,3.74703,323.69,2023-03-30,Agrio el ghozlane,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
-24h,36.14165,2.92802,305.31,2023-03-30,Berroughia ⴱⴻⵔⵡⴰⴳⵉⵢⴰ Al Barawqiya,Médéa ⵎⴷⵉⵢⵢⴰ Medea,DZ,Argelia
-24h,35.23056,8.17374,301.75,2023-03-30,El ma labiodh ⵍⵎⴰ ⵍⴻⴱⵢⴻⴹ agua blanca,Tebessa ⵴ రర రర ipe swee 2017,DZ,Argelia
-24h,35.87939,4.44746,324.52,2023-03-30,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ Pigón,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,35.70763,4.47427,296.37,2023-03-30,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,36.13024,1.23937,308.7,2023-03-30,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,48.31829,27.17044,332.35,2023-03-30,Bocicăuţi,NA,MD,Moldavia
-24h,48.67868,31.01345,328,2023-03-30,Comunidad de asentamiento de novoarhangelsk,Región de Kirovohrad,UA,Ucrania
-24h,48.41199,27.94506,339.22,2023-03-30,Comunidad de la ciudad de Mogilev-Podilsky,Región de Vinnytsia,UA,Ucrania
-24h,48.3207,27.16918,337.41,2023-03-30,Colicauti,NA,MD,Moldavia
-24h,48.68356,31.01187,325.49,2023-03-30,Comunidad de Nadlatsk Village,Región de Kirovohrad,UA,Ucrania
-24h,48.32597,25.64855,330.62,2023-03-30,Comunidad rural de Brusnitsky,Región de Chernivtsi,UA,Ucrania
-24h,48.54295,25.77328,330.98,2023-03-30,Comunidad de versenchansk Village,Región de Chernivtsi,UA,Ucrania
-24h,52.64292,27.91108,325.28,2023-03-30,Consejo de la aldea de Rachensky,Región de Minsk,BY,Bielorrusia
-24h,52.84875,29.99381,332.39,2023-03-30,Consejo Rural del Salón,Región de Gomel,BY,Bielorrusia
-24h,54.49539,22.0245,329.47,2023-03-30,Zabilla,Región de Kaliningrado,RU,Rusia
-24h,49.372,30.24584,338.71,2023-03-30,Comunidad de asentamiento StavishChenskaya,Región de Kyiv,UA,Ucrania
-24h,50.44491,32.74449,327.2,2023-03-30,Comunidad de asentamiento de Varvinsk,Región de Chernihiv,UA,Ucrania
-24h,49.20592,24.76589,350.22,2023-03-30,La comunidad de asentamientos de Bolshevtsi,Región de Ivano-Frankivsk,UA,Ucrania
-24h,41.53106,26.12901,329.68,2023-03-30,Ivaylovgrad,Haskovo,BG,Bulgaria
-24h,41.46193,22.77019,326.8,2023-03-30,Municipio de Bosilovo,SR SR,MK,Macedonia del Norte
-24h,42.57714,24.35229,339.9,2023-03-30,Escoria,Pájardzhik,BG,Bulgaria
-24h,42.62263,24.38306,343.02,2023-03-30,Koprivshtitsa,Sofía,BG,Bulgaria
-24h,43.20522,25.26785,342.39,2023-03-30,Pavlikeni,Veliko Tarnovo,BG,Bulgaria
-24h,43.11952,24.46798,325.37,2023-03-30,Ugarchin,Lovech,BG,Bulgaria
-24h,43.10678,24.0434,332.61,2023-03-30,Yablanitsa,Lovech,BG,Bulgaria
-24h,43.11005,24.04248,330.64,2023-03-30,Lukovit,Lovech,BG,Bulgaria
-24h,43.29886,24.43531,331.9,2023-03-30,Dolnik,Pleven,BG,Bulgaria
-24h,43.23295,23.23024,326.99,2023-03-30,Vástago,Montana,BG,Bulgaria
-24h,43.06187,21.52331,335.25,2023-03-30,Ciudad de Prokuplje,Serbia central,RS,Serbia
-24h,43.25878,22.319,325.27,2023-03-30,Municipio de Bela Palanka,Serbia central,RS,Serbia
-24h,43.71408,24.52441,341.18,2023-03-30,Gulyantsi,Pleven,BG,Bulgaria
-24h,43.64738,23.84942,330.8,2023-03-30,Moesia,Vratsa,BG,Bulgaria
-24h,43.58577,22.95401,337.15,2023-03-30,Brusartsi,Montana,BG,Bulgaria
-24h,43.73874,22.69296,332.76,2023-03-30,Dimovo,Vidin,BG,Bulgaria
-24h,43.88681,21.18175,327.2,2023-03-30,Ciudad de Jagodina,Serbia central,RS,Serbia
-24h,44.14372,18.0156,329.31,2023-03-30,Municipio de Kakanj,Zenica-Doboj Cantón,BA,Bosnia y Herzegovina
-24h,45.96043,28.37021,330.49,2023-03-30,Quieres,NA,MD,Moldavia
-24h,44.53563,18.82957,328.1,2023-03-30,Operación,Tuzla Cantón,BA,Bosnia y Herzegovina
-24h,45.95555,28.13547,331.3,2023-03-30,Cahul,NA,MD,Moldavia
-24h,46.04319,28.24585,331.57,2023-03-30,Baurci-Moldovan,NA,MD,Moldavia
-24h,44.78657,16.43736,332.95,2023-03-30,Municipio del Puente Sanski,Cantón una-sana,BA,Bosnia y Herzegovina
-24h,45.71621,19.30522,338.78,2023-03-30,Municipio de Kula,Vojvodina,RS,Serbia
-24h,47.56183,30.21203,325.82,2023-03-30,Comunidad de la ciudad de Ananyev,Región de ODESA,UA,Ucrania
-24h,47.64134,27.73131,331.6,2023-03-30,Ilenuţa,NA,MD,Moldavia
-24h,47.63266,27.53901,326,2023-03-30,Tonterías,NA,MD,Moldavia
-24h,36.52032,5.08249,334.99,2023-03-30,Bouandas ⴱⵓⵄⴻⵏⴷⴰⵙ bouaddas,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
-24h,36.86873,6.98628,342.5,2023-03-30,Hamadi Krouma ⵃⴻⵎⵎⴰⴷⵉ ⴽⵔⵓⵎⴰ Hammadi Karma,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,34.9014,-6.21565,338.14,2023-03-30,Caïdat de Moulay Bousselham,"Provincia de Kenitra, región de Quneitra",MA,Marruecos
-24h,35.14261,-5.37244,340.88,2023-03-30,Caï que el tanaqoub,Provincia de Chefchauen ⵜⵛⴻⴼⵜⵛⴰⵡⴻⵏ Provincia de Chefchaouen,MA,Marruecos
-24h,35.21921,-5.37081,331.11,2023-03-30,"Caïdat de Bni Hassan, dirigido por Bani Hassan",Provincia de la provincia de Tétouan Tetouan,MA,Marruecos
-24h,35.19069,-5.54586,345.33,2023-03-30,"Souk L'Qolla, Qallaq al -qallal",Provincia de Larache Región de Larache,MA,Marruecos
-24h,53.44384,34.41938,321.36,2023-03-30,Fokino,Región de Bryansk,RU,Rusia
-24h,53.39483,32.01421,302.96,2023-03-30,El consejo de la aldea olvidada,Región de Mogilev,BY,Bielorrusia
-24h,52.80544,32.22126,299.93,2023-03-30,Asentamiento rural de Smolevichi,Región de Bryansk,RU,Rusia
-24h,48.53243,34.6114,297.83,2023-03-30,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,47.87402,33.41682,301.88,2023-03-30,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
-24h,44.77148,33.86302,296.94,2023-03-30,Asentamiento de la ciudad Bakhchisaray,Distrito de Bakhchisarai,UA,Ucrania
-24h,35.20359,33.43616,307.21,2023-03-30,Nicosia - Lefkoşa,Nicosia,CY,Chipre
-24h,34.72486,33.31665,304.84,2023-03-30,Grande,Lago,CY,Chipre
-24h,46.78463,30.39445,315.74,2023-03-31,Razdelnyansk City Community,Región de ODESA,UA,Ucrania
-24h,42.71731,24.16955,299.17,2023-03-31,Depósito,Sofía,BG,Bulgaria
-24h,37.25717,9.85118,302.08,2023-03-31,NA,Delegación de Southern Bizerte,TN,Túnez
-24h,36.67846,9.91969,308.95,2023-03-31,Ritual,Delegación de Al -Mortaga,TN,Túnez
-24h,36.79085,7.69859,302.7,2023-03-31,Sidi Amar ⵙⵉⴷⵉ ⵄⴻⵎⵎⴰⵔ Sidi Ammar,Annaba ⵄⴻⵏⵏⴰⴱⴰ Annaba,DZ,Argelia
-24h,36.77818,7.66881,305.54,2023-03-31,El Hadjar ⵍⵃⴻⴵⴵⴰⵔ Al -Hajjar,Annaba ⵄⴻⵏⵏⴰⴱⴰ Annaba,DZ,Argelia
-24h,36.87991,6.94289,298.69,2023-03-31,Skikda ⵙⴽⵉⴽⴷⴰ skikda,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,36.67602,8.07727,311.21,2023-03-31,Chefia ⵛⵛⴰⴼⵉⵢⴰ Curación,El Tarf ⵟⵟⴰⵔⴻⴼ Al -tarif,DZ,Argelia
-24h,36.76365,7.30696,300.76,2023-03-31,Bekkouche Lakhdar ⴱⴻⴽⴽⵓⵛ ⵍⴻⵅⴹⴻⵔ Green Kush,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,36.74792,6.25451,327.14,2023-03-31,El Milia ⵍⵎⵉⵍⵉⵢⴰ milla,Jijel ⵉⵖⵉⵍ ⴳⵉⵍⵉ jijel,DZ,Argelia
-24h,36.44398,6.57854,295.19,2023-03-31,Hamma bouziane ⵃⴰⵎⴰ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ ⴱⵓⵣⵉⵢⵢⴰⵏ,Constantino ⵇⵙⴻⵏⵟⵉⵏⴰ Constantino,DZ,Argelia
-24h,36.75112,3.07989,309.19,2023-03-31,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ a,Alger Argelia,DZ,Argelia
-24h,36.66505,3.06525,319.09,2023-03-31,Burtouta ⴱⴻⵔⵜⵓⵜⴰ bir tota,Alger Argelia,DZ,Argelia
-24h,36.66458,3.0704,307.62,2023-03-31,Cuartel,Alger Argelia,DZ,Argelia
-24h,36.20119,6.56383,302.57,2023-03-31,El Khroub ⵍⴻⵅⵔⵓⴱ Carob,Constantino ⵇⵙⴻⵏⵟⵉⵏⴰ Constantino,DZ,Argelia
-24h,36.33401,5.48407,314.47,2023-03-31,Beni Fouda,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
-24h,36.59788,3.13426,301.34,2023-03-31,Larbâa ⵍⴰⵔⴱⵄⴰ miércoles,Blida Blida,DZ,Argelia
-24h,36.39709,4.54865,297.29,2023-03-31,Aït r'zine,Béjaïa ⴲⴳⴰⵢⴻⵝ bejaia,DZ,Argelia
-24h,36.08768,6.80438,299.95,2023-03-31,Sigus ⵙⵉⴳⵓⵙ Sigus,OUM El Boughi ⵓⵎⵍⴻⴱⵡⴰⵖⵉ Umm al -Baqi,DZ,Argelia
-24h,36.17845,5.57379,305.43,2023-03-31,OULD SABOR ⵡⵍⴰⴷ ⵚⴰⴱⴻⵔ Hijos de Saber,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
-24h,36.06913,5.49997,310.72,2023-03-31,Guía,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
-24h,36.1792,3.7506,318.28,2023-03-31,Agrio el ghozlane,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
-24h,35.86633,6.02891,296.93,2023-03-31,El Hassi Bergug,Mila ⵎⵉⵍⴰ Mila,DZ,Argelia
-24h,36.13891,2.9298,295.61,2023-03-31,Berroughia ⴱⴻⵔⵡⴰⴳⵉⵢⴰ Al Barawqiya,Médéa ⵎⴷⵉⵢⵢⴰ Medea,DZ,Argelia
-24h,35.88157,4.4459,313.24,2023-03-31,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ Pigón,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,35.5494,6.86874,309.25,2023-03-31,Remia ⵔⵎⵉⵍⴰ Rumaila,Khenchela ⵅⴻⵏⵛⵍⴰ Khenchela,DZ,Argelia
-24h,36.13123,1.23849,309.2,2023-03-31,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,35.23112,8.17232,318.82,2023-03-31,El ma labiodh ⵍⵎⴰ ⵍⴻⴱⵢⴻⴹ agua blanca,Tebessa ⵴ రర రర ipe swee 2017,DZ,Argelia
-24h,35.70998,4.47726,305.68,2023-03-31,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,35.35067,5.76162,328.69,2023-03-31,Legride,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
-24h,35.81419,-0.27278,345.28,2023-03-31,Aïn El Bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ Ein Al -Bayya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81371,-0.26687,313.12,2023-03-31,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80862,-0.34607,301.25,2023-03-31,Arzew ⴰⵔⴻⵣⵢⵓ Arzio,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.09671,5.64742,307.96,2023-03-31,Djemorah ⴵⵎⵓⵔⴰ Jamura,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,34.98267,5.71467,324.84,2023-03-31,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,35.5674,-0.93894,297.31,2023-03-31,Boutlessis ⴱⵓⵜⵍⵉⵍⵉⵙ Potlis,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,34.4361,2.05727,305.14,2023-03-31,GULTAT SIDI SAAD ⴳⴻⵍⵜⴰⵜ ⵙⵉⴷⵉ ⵙⴰⵄⴷ Qalta Sidi Saad,Lghouat ⵍⴻⵖⵡⴰⵟ laghouat,DZ,Argelia
-24h,34.59524,-2.34688,299.98,2023-03-31,Apóstoles de rislano,Provincia de Berkane Berkane Región,MA,Marruecos
-24h,53.44363,34.41525,316.71,2023-03-31,Fokino,Región de Bryansk,RU,Rusia
-24h,52.80674,32.22473,304.4,2023-03-31,Asentamiento rural de Smolevichi,Región de Bryansk,RU,Rusia
-24h,52.84932,29.99034,336.66,2023-03-31,Consejo Rural del Salón,Región de Gomel,BY,Bielorrusia
+24h,65.76866,24.1902,332.72,16 de abril,Tornio,Lapin aluehallintovirasto,FI,Finlandia
+24h,65.56385,22.2185,336.36,16 de abril,Luleå,Norrbottens län,SE,Suecia
+24h,64.64718,24.43149,314.82,16 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+24h,64.66504,21.28765,321.21,16 de abril,Skellefteå kommun,Västerbottens län,SE,Suecia
+24h,62.59491,25.75094,296.09,16 de abril,Äänekoski,Länsi- ja Sisä-Suomen aluehallintovirasto,FI,Finlandia
+24h,60.61139,16.79685,297.38,16 de abril,Sandviken,Gävleborgs län,SE,Suecia
+24h,60.71354,15.28792,326.33,16 de abril,Falu kommun,Dalarnas län,SE,Suecia
+24h,58.92025,17.97488,310.77,16 de abril,Nynäshamn,Stockholms län,SE,Suecia
+24h,58.68482,17.13019,301.08,16 de abril,Oxelösund,Södermanlands län,SE,Suecia
+24h,57.71078,18.80407,307.77,16 de abril,Gotlands kommun,Gotlands län,SE,Suecia
+24h,57.01373,1.83167,309.61,16 de abril,NA,NA,NA,Mundo
+24h,53.51218,10.03769,306.65,16 de abril,Hamburg,NA,DE,Alemania
+24h,50.93124,21.67541,296.07,16 de abril,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
+24h,50.8292,20.27408,296.25,16 de abril,gmina Małogoszcz,województwo świętokrzyskie,PL,Polonia
+24h,51.10632,18.93867,305.61,16 de abril,gmina Działoszyn,województwo łódzkie,PL,Polonia
+24h,51.17918,16.10923,327.68,16 de abril,Legnica,województwo dolnośląskie,PL,Polonia
+24h,50.34084,19.33723,298.29,16 de abril,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+24h,50.41405,18.14049,296.39,16 de abril,gmina Zdzieszowice,województwo opolskie,PL,Polonia
+24h,49.679,18.66062,326.07,16 de abril,Třinec,Moravskoslezsko,CZ,Rep. Checa
+24h,48.62109,21.19013,295.99,16 de abril,Košice,Košický kraj,SK,Eslovaquia
+24h,51.04556,2.29282,311.44,16 de abril,Grande-Synthe,Hauts-de-France,FR,Francia
+24h,48.45912,17.19139,303.82,16 de abril,Rohožník,Bratislavský kraj,SK,Eslovaquia
+24h,44.43456,25.49653,311.27,16 de abril,Cartojani,Giurgiu,RO,Rumanía
+24h,46.42231,14.09875,305.82,16 de abril,Jesenice,NA,SI,Eslovenia
+24h,46.22889,13.07496,300.72,16 de abril,Osoppo,Friuli-Venezia Giulia,IT,Italia
+24h,46.06997,13.62794,309.77,16 de abril,Gorenja vas,NA,SI,Eslovenia
+24h,45.52025,11.4962,307.04,16 de abril,Vicenza,Veneto,IT,Italia
+24h,45.38417,11.94602,304.56,16 de abril,Padova,Veneto,IT,Italia
+24h,45.78104,8.68315,298.7,16 de abril,Comabbio,Lombardia,IT,Italia
+24h,45.51516,10.34604,299.39,16 de abril,Mazzano,Lombardia,IT,Italia
+24h,45.51043,10.24443,307.35,16 de abril,Brescia,Lombardia,IT,Italia
+24h,45.46213,10.45752,329.26,16 de abril,Lonato del Garda,Lombardia,IT,Italia
+24h,45.48026,10.21486,322,16 de abril,San Zeno Naviglio,Lombardia,IT,Italia
+24h,45.14745,9.94245,304.15,16 de abril,Spinadesco,Lombardia,IT,Italia
+24h,43.79541,7.3755,305.61,16 de abril,Nice,Provence-Alpes-Côte d'Azur,FR,Francia
+24h,43.4481,4.89786,300.21,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
+24h,41.76631,-0.328,300.54,16 de abril,Lanaja,Huesca,ES,España
+24h,41.15287,1.00175,295.8,16 de abril,Botarell,Tarragona,ES,España
+24h,40.83131,0.50142,310.67,16 de abril,Tortosa,Tarragona,ES,España
+24h,39.0816,9.0187,296.64,16 de abril,Sarroccu/Sarroch,Sardigna/Sardegna,IT,Italia
+24h,40.24827,-3.47449,305,16 de abril,Morata de Tajuña,Comunidad de Madrid,ES,España
+24h,39.93855,-3.74581,300.47,16 de abril,Yepes,Toledo,ES,España
+24h,37.43964,15.0318,300.35,16 de abril,Catania,Sicilia,IT,Italia
+24h,39.44714,-0.58471,302.68,16 de abril,Chiva,València / Valencia,ES,España
+24h,38.66753,-4.05249,295.6,16 de abril,Puertollano,Ciudad Real,ES,España
+24h,38.37858,-0.5469,296.39,16 de abril,Alacant / Alicante,Alacant / Alicante,ES,España
+24h,38.17614,-1.72715,327.19,16 de abril,Cehegín,Región de Murcia,ES,España
+24h,37.97875,-1.154,337.72,16 de abril,Murcia,Región de Murcia,ES,España
+24h,37.36124,-6.67479,296.32,16 de abril,Niebla,Huelva,ES,España
+24h,36.96745,-1.90447,304.14,16 de abril,Carboneras,Almería,ES,España
+24h,48.98307,1.75856,303.31,16 de abril,Mantes-la-Jolie,Île-de-France,FR,Francia
+24h,44.98232,-0.04271,306.9,16 de abril,Petit-Palais-et-Cornemps,Nouvelle-Aquitaine,FR,Francia
+24h,38.50437,-8.93582,299.82,16 de abril,Setúbal,Setúbal,PT,Portugal
+24h,37.41503,28.19284,333.18,16 de abril,Yatağan,Ege Bölgesi,TR,Turquía
+24h,40.36234,34.18446,333.72,16 de abril,Sungurlu,Çorum,TR,Turquía
+24h,39.77795,28.20244,330.98,16 de abril,Susurluk,Balıkesir,TR,Turquía
+24h,40.81194,34.85052,333.58,16 de abril,Laçin,Çorum,TR,Turquía
+24h,40.44253,27.13891,333.4,16 de abril,Biga,Çanakkale,TR,Turquía
+24h,50.41354,18.14568,332.9,16 de abril,Zdzieszowice,województwo opolskie,PL,Polonia
+24h,58.53387,15.00741,333.77,16 de abril,Motala,Östergötlands län,SE,Suecia
+24h,58.36033,12.37747,343.5,16 de abril,Vänersborgs kommun,Västra Götalands län,SE,Suecia
+24h,62.28687,17.34281,328.22,16 de abril,Njurunda distrikt,Västernorrlands län,SE,Suecia
+24h,37.74348,-1.12707,356.4,16 de abril,Fuente Álamo de Murcia,Región de Murcia,ES,España
+24h,41.94606,2.24826,336.04,16 de abril,Gurb,Barcelona,ES,España
+24h,41.98101,2.10535,339.09,16 de abril,Olost,Barcelona,ES,España
+24h,42.44193,3.15629,352.02,16 de abril,Céret,Occitanie,FR,Francia
+24h,42.43491,-2.27471,327.14,16 de abril,Agoncillo,La Rioja,ES,España
+24h,43.76053,4.43164,331.86,16 de abril,Nîmes,Occitanie,FR,Francia
+24h,43.30729,1.18831,332.03,16 de abril,Muret,Occitanie,FR,Francia
+24h,44.30127,7.73502,338.18,16 de abril,Borgata Norea,Piemonte,IT,Italia
+24h,41.43955,-8.4334,351.28,16 de abril,Joane,Braga,PT,Portugal
+24h,42.86654,-2.66802,327.73,16 de abril,Vitoria-Gasteiz,Araba/Álava,ES,España
+24h,43.64425,1.42645,326.25,16 de abril,Toulouse,Occitanie,FR,Francia
+24h,45.14676,9.94607,341.94,16 de abril,Cremona,Lombardia,IT,Italia
+24h,43.52249,-5.72857,341.81,16 de abril,Gijón/Xixón,Asturias / Asturies,ES,España
+24h,43.53607,-5.82986,326.91,16 de abril,Carreño,Asturias / Asturies,ES,España
+24h,44.80637,-0.68055,335.48,16 de abril,Pessac,Nouvelle-Aquitaine,FR,Francia
+24h,45.79773,3.11117,341,16 de abril,Clermont-Ferrand,Auvergne-Rhône-Alpes,FR,Francia
+24h,45.85164,0.10715,348.43,16 de abril,Confolens,Nouvelle-Aquitaine,FR,Francia
+24h,46.24761,-0.08459,349.27,16 de abril,Niort,Nouvelle-Aquitaine,FR,Francia
+24h,53.58012,-0.61836,329.96,16 de abril,Scunthorpe,England,GB,Reino Unido
+24h,58.3282,15.1315,326.27,16 de abril,Mjölby,Östergötlands län,SE,Suecia
+24h,40.09998,-4.47275,341.58,16 de abril,Hormigos,Toledo,ES,España
+24h,41.67808,-7.80526,330.03,16 de abril,Boticas,Vila Real,PT,Portugal
+24h,36.86929,34.76257,308.72,16 de abril,Akdeniz,Mersin,TR,Turquía
+24h,50.03775,18.48585,297.09,17 de abril,Radlin,województwo śląskie,PL,Polonia
+24h,49.81311,18.31992,301.65,17 de abril,Ostrava,Moravskoslezsko,CZ,Rep. Checa
+24h,49.67933,18.6617,317.78,17 de abril,Třinec,Moravskoslezsko,CZ,Rep. Checa
+24h,51.04577,2.29742,313.33,17 de abril,Grande-Synthe,Hauts-de-France,FR,Francia
+24h,51.03415,2.28357,296.49,17 de abril,Dunkerque,Hauts-de-France,FR,Francia
+24h,48.64582,20.22166,296.68,17 de abril,Jelšava,Banskobystrický kraj,SK,Eslovaquia
+24h,46.06913,13.63009,307.81,17 de abril,Morsko,NA,SI,Eslovenia
+24h,45.38371,11.9448,301.98,17 de abril,Padova,Veneto,IT,Italia
+24h,45.46068,10.45318,311.27,17 de abril,Lonato del Garda,Lombardia,IT,Italia
+24h,45.47776,10.21234,324.44,17 de abril,San Zeno Naviglio,Lombardia,IT,Italia
+24h,45.14771,9.94019,295.37,17 de abril,Spinadesco,Lombardia,IT,Italia
+24h,45.09881,8.88377,295.73,17 de abril,Sannazzaro de' Burgondi,Lombardia,IT,Italia
+24h,43.4463,4.89347,308.97,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
+24h,40.92913,16.90468,295.9,17 de abril,Casamassima,Puglia,IT,Italia
+24h,40.63032,18.00066,295.61,17 de abril,Brindisi,Puglia,IT,Italia
+24h,41.31432,1.6635,295.81,17 de abril,Santa Margarida i els Monjos,Barcelona,ES,España
+24h,39.08126,9.02101,299.37,17 de abril,Sarroccu/Sarroch,Sardigna/Sardegna,IT,Italia
+24h,39.66249,-0.24947,296.82,17 de abril,Sagunt / Sagunto,València / Valencia,ES,España
+24h,36.90272,14.72635,296.96,17 de abril,Ragusa,Sicilia,IT,Italia
+24h,37.57222,-0.91951,298.66,17 de abril,Cartagena,Región de Murcia,ES,España
+24h,36.75866,-2.72153,326.81,17 de abril,El Ejido,Almería,ES,España
+24h,34.29585,11.40445,316.85,17 de abril,NA,NA,NA,Mundo
+24h,65.56644,22.22005,308.61,17 de abril,Luleå,Norrbottens län,SE,Suecia
+24h,64.64933,24.42177,308.69,17 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+24h,60.60988,16.79607,303.8,17 de abril,Sandviken,Gävleborgs län,SE,Suecia
+24h,58.68324,17.13638,295.52,17 de abril,Oxelösund,Södermanlands län,SE,Suecia
+24h,57.70888,18.80325,305.58,17 de abril,Gotlands kommun,Gotlands län,SE,Suecia
+24h,58.27976,6.89092,310.99,17 de abril,Kvinesdal,Agder,NO,Noruega
+24h,57.06386,9.97814,315.56,17 de abril,Aalborg,Region Nordjylland,DK,Dinamarca
+24h,50.92887,21.67753,307.92,17 de abril,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
+24h,51.10431,18.94043,314.81,17 de abril,gmina Działoszyn,województwo łódzkie,PL,Polonia
+24h,50.80736,20.53525,295.46,17 de abril,gmina Nowiny,województwo świętokrzyskie,PL,Polonia
+24h,50.80119,19.17587,304.74,17 de abril,Częstochowa,województwo śląskie,PL,Polonia
+24h,51.18014,16.11111,326.16,17 de abril,Legnica,województwo dolnośląskie,PL,Polonia
+24h,50.49276,19.45732,307.18,17 de abril,Zawiercie,województwo śląskie,PL,Polonia
+24h,50.34282,19.34305,297.76,17 de abril,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+24h,50.53571,17.9794,306.24,17 de abril,gmina Gogolin,województwo opolskie,PL,Polonia
+24h,50.4173,18.14785,297.78,17 de abril,Leśnica,województwo opolskie,PL,Polonia
+24h,50.41487,18.1413,299.79,17 de abril,gmina Zdzieszowice,województwo opolskie,PL,Polonia
+24h,50.07625,20.09903,308.72,17 de abril,Kraków,województwo małopolskie,PL,Polonia
+24h,64.66254,21.28316,299.49,17 de abril,Skellefteå kommun,Västerbottens län,SE,Suecia
+24h,63.31919,9.1421,295.91,17 de abril,Heim,Trøndelag,NO,Noruega
+24h,58.36287,12.38112,306.83,17 de abril,Vänersborgs kommun,Västra Götalands län,SE,Suecia
+24h,59.13066,9.62507,301.45,17 de abril,Porsgrunn,Vestfold og Telemark,NO,Noruega
+24h,58.34523,11.43135,296,17 de abril,Lysekils kommun,Västra Götalands län,SE,Suecia
+24h,53.63499,-0.24958,295.43,17 de abril,North Killingholme,England,GB,Reino Unido
+24h,53.63366,-0.24307,307.15,17 de abril,South Killingholme,England,GB,Reino Unido
+24h,48.98474,1.7583,314.7,17 de abril,Limay,Île-de-France,FR,Francia
+24h,48.82485,2.09195,297.64,17 de abril,Versailles,Île-de-France,FR,Francia
+24h,43.03694,-2.21937,306.98,17 de abril,Olaberria,Gipuzkoa,ES,España
+24h,43.52594,-5.72697,321.46,17 de abril,Gijón/Xixón,Asturias / Asturies,ES,España
+24h,41.40662,1.99891,301.48,17 de abril,Sant Vicenç dels Horts,Barcelona,ES,España
+24h,43.34555,-8.43557,305.68,17 de abril,A Coruña,A Coruña,ES,España
+24h,41.18024,1.22998,302.02,17 de abril,la Pobla de Mafumet,Tarragona,ES,España
+24h,40.57796,0.54199,296,17 de abril,Alcanar,Tarragona,ES,España
+24h,41.70017,-8.71308,297.79,17 de abril,Viana do Castelo,Viana do Castelo,PT,Portugal
+24h,38.37901,-0.54141,297.07,17 de abril,Alacant / Alicante,Alacant / Alicante,ES,España
+24h,39.68497,-8.9069,298.89,17 de abril,Maceira,Leiria,PT,Portugal
+24h,38.66285,-6.55109,302.38,17 de abril,Villalba de los Barros,Badajoz,ES,España
+24h,38.6306,-9.07657,306.74,17 de abril,Seixal,Setúbal,PT,Portugal
+24h,38.50303,-8.93594,308.24,17 de abril,Setúbal,Setúbal,PT,Portugal
+24h,60.21687,29.61736,296.45,16 de abril,Ushvovo,San Petersburgo,RU,Rusia
+24h,60.52309,28.13452,296.34,16 de abril,Asentamiento rural de Seleznevsky,Región de Leningrado,RU,Rusia
+24h,44.60034,20.97565,300.82,16 de abril,Ciudad de Smederevo,Serbia central,RS,Serbia
+24h,36.87791,6.94285,300.67,16 de abril,Skikda ⵙⴽⵉⴽⴷⴰ skikda,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
+24h,36.86887,6.98234,335.47,16 de abril,Hamadi Krouma ⵃⴻⵎⵎⴰⴷⵉ ⴽⵔⵓⵎⴰ Hammadi Karma,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
+24h,36.76122,7.31136,295.66,16 de abril,Bekkouche Lakhdar ⴱⴻⴽⴽⵓⵛ ⵍⴻⵅⴹⴻⵔ Green Kush,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
+24h,36.7503,3.0825,306.91,16 de abril,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ,Alger Argelia,DZ,Argelia
+24h,36.59731,3.13722,299.89,16 de abril,Larbâa ⵍⴰⵔⴱⵄⴰ miércoles,Blida Blida,DZ,Argelia
+24h,36.59695,2.87907,297.52,16 de abril,Boufarik ⴱⵓ ⴼⴰⵔⵉⴽ boufarik,Blida Blida,DZ,Argelia
+24h,35.86754,6.03049,303.21,16 de abril,El Hassi Bergug,Mila ⵎⵉⵍⴰ Mila,DZ,Argelia
+24h,35.87806,4.44921,316.74,16 de abril,El euch ⵍⵄⴻⵛ nido,Bordj bou arrreidj ⴱⵓⵔⴵ ⴱⵓ ⵄⵔⵉⵔⵉⴵ ⵄⵔⵉⵔⵉⴵ burj bou arreridj,DZ,Argelia
+24h,35.88124,4.44931,315.28,16 de abril,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
+24h,36.13783,1.19382,322,16 de abril,OU ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
+24h,36.12936,1.23835,307.99,16 de abril,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
+24h,35.23198,8.17366,312.74,16 de abril,El ma labiodh ⵍⵎⴰ ⵍⴻⴱⵢⴻⴹ agua blanca,Tebessa ⵴ రర రర ipe swee 2017,DZ,Argelia
+24h,35.71493,4.76285,299.52,16 de abril,OULLED DERDJ ⵡⵍⴰⴷ ⴷⴻⵔⵔⴰⴵ Ciudades de arrastre,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
+24h,36.09671,1.09864,303.09,16 de abril,Sobha ⵚⵓⴱⵃⴰ Sabha,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
+24h,35.71062,4.47687,302.04,16 de abril,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
+24h,35.34828,5.76205,327.38,16 de abril,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
+24h,35.81755,-0.27531,323.25,16 de abril,Aïn el bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ ein al -bayya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.81704,-0.26944,330.88,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.09419,5.64858,302.43,16 de abril,Djemorah ⴵⵎⵓⵔⴰ Jamura,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
+24h,34.98032,5.71612,305.05,16 de abril,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
+24h,35.52965,-0.27676,296.88,16 de abril,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
+24h,35.56797,-0.94139,296.85,16 de abril,Boutlessis ⴱⵓⵜⵍⵉⵍⵉⵙ Potlis,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,34.78666,5.41419,303.13,16 de abril,Tolga ⵜⴰⵍⴳⴰ Tulka,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
+24h,35.20107,-0.58436,295.3,16 de abril,ZeroUala ⵣⴻⵔⵡⴰⵍⴰ Zarwala,Sidi Bel Abbès ⵙⵉⴷⵉ ⴱⴻⵍ ⵄⴻⴱⴱⴰⵙ Sidi Bel Abbas,DZ,Argelia
+24h,34.43911,5.8874,308.1,16 de abril,Oumache ⵓⵎⵎⴰⵛ omash,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
+24h,35.00106,-5.97243,298.17,16 de abril,Cathuth salió de la holgazanería.,Provincia de Larache Región de Larache,MA,Marruecos
+24h,34.43903,2.05797,302.01,16 de abril,Beidha ⴱⴻⵢⴹⴰ White,Lghouat ⵍⴻⵖⵡⴰⵟ laghouat,DZ,Argelia
+24h,34.59864,-2.34825,299.98,16 de abril,Apóstoles de rislano,Provincia de Berkane Berkane Región,MA,Marruecos
+24h,34.28051,-6.57431,302.04,16 de abril,Partidario de MNASRA,"Provincia de Kenitra, región de Quneitra",MA,Marruecos
+24h,51.42996,34.85667,342.24,16 de abril,Trump -Concil del consejo de la aldea,Región de Kursk,RU,Rusia
+24h,43.89184,22.33202,337.99,16 de abril,Ciudad de Zajecar,Serbia central,RS,Serbia
+24h,47.86542,33.43528,330.05,16 de abril,Comunidad de la ciudad de Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,48.51793,34.63474,331.55,16 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
+24h,55.94398,34.40361,333.8,16 de abril,Asentamiento rural de Nikolskoye,Región de smolensk,RU,Rusia
+24h,55.9613,34.5436,338.47,16 de abril,NA,Región de tver,RU,Rusia
+24h,56.24261,34.38607,330.23,16 de abril,Rzhev,Región de tver,RU,Rusia
+24h,34.85051,5.9239,337.6,16 de abril,Sidi Okba ⵙⵉⴷⵉ O ⴽⴱⴰ Sidi Aqaba,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
+24h,34.51612,-3.06502,333.17,16 de abril,Melga el Ouidane yaciendo al -widan,Provincia de Taourrt Towart Provincia,MA,Marruecos
+24h,34.84314,-6.07017,337.74,16 de abril,Lalla Mimouna Lala Maimouna,"Provincia de Kenitra, región de Quneitra",MA,Marruecos
+24h,48.47048,34.96472,298.09,16 de abril,Dnipro,Región de dnipropetrovsk,UA,Ucrania
+24h,47.8674,33.43111,337.04,16 de abril,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,35.17529,33.20296,297.78,16 de abril,Tonto,Nicosia,CY,Chipre
+24h,34.72523,33.31683,297.84,16 de abril,Grande,Lago,CY,Chipre
+24h,36.59044,10.32034,299.89,17 de abril,NA,Delegación de marané,TN,Túnez
+24h,36.79113,7.68075,303.13,17 de abril,Sidi Amar ⵙⵉⴷⵉ ⵄⴻⵎⵎⴰⵔ Sidi Ammar,Annaba ⵄⴻⵏⵏⴰⴱⴰ Annaba,DZ,Argelia
+24h,36.5023,10.02596,295.1,17 de abril,Estación Bir Masharqa,La delegación de Bir Masharqa,TN,Túnez
+24h,36.74793,3.08021,306.38,17 de abril,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ,Alger Argelia,DZ,Argelia
+24h,36.68041,3.12125,296.66,17 de abril,Baraki Baraqi,Alger Argelia,DZ,Argelia
+24h,36.63201,3.23084,308.68,17 de abril,Meftah ⵎⴻⴼⵜⴰⵃ clave,Blida Blida,DZ,Argelia
+24h,36.48113,3.80039,298.95,17 de abril,Qalar,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
+24h,36.33331,5.48269,299.28,17 de abril,Beni Fouda,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
+24h,36.18189,3.74593,304.19,17 de abril,Agrio el ghozlane,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
+24h,36.05246,5.33641,296.47,17 de abril,Niños Qasim,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
+24h,36.2435,2.14991,314.36,17 de abril,Sidi Lakhdar,Aïn defla ⵄⵉⵏ ⴷⴻⴼⵍⴰ ain defla,DZ,Argelia
+24h,36.13105,1.23852,304.4,17 de abril,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
+24h,35.88181,4.44876,297.4,17 de abril,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
+24h,35.70944,4.47582,296.54,17 de abril,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
+24h,35.23187,8.17471,303.6,17 de abril,El ma labiodh ⵍⵎⴰ ⵍⴻⴱⵢⴻⴹ agua blanca,Tebessa ⵴ రర రర ipe swee 2017,DZ,Argelia
+24h,35.36861,6.41832,295.06,17 de abril,Aris ⴰⵔⵔⵉⵙ Aris,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
+24h,35.8147,-0.27457,340.6,17 de abril,Aïn el bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ ein al -bayya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.81495,-0.28001,306.12,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.8056,-0.34727,301.31,17 de abril,Arzew ⴰⵔⴻⵣⵢⵓ Arzio,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.35156,5.76264,295.9,17 de abril,Legride,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
+24h,35.34726,5.76207,317.1,17 de abril,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
+24h,34.72702,10.51583,327.54,17 de abril,Escorpión,Detamento de ayuda,TN,Túnez
+24h,35.67507,0.22919,299.61,17 de abril,El Ghomri ⵍⵖⵓⵎⵔⵉ Al -Ghamri,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
+24h,35.26951,2.19148,296.34,17 de abril,Rechaiga ⵔⵛⴰⵢⴳⴰ Al -rashea,Tiare ⵜⵢⴰⵔⴻⵜ tiaret,DZ,Argelia
+24h,34.98103,5.71566,299.57,17 de abril,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
+24h,56.81062,28.19169,309.53,17 de abril,Krasnogorodskaya Volost,Región de pskov,RU,Rusia
+24h,48.52312,34.63044,306.61,17 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
+24h,47.86692,33.43428,331.59,17 de abril,Comunidad de la ciudad de Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,47.86861,33.42893,312.83,17 de abril,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,36.18167,3.75052,308.69,17 de abril,El Hachimia,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
+24h,36.451,2.44433,297.12,17 de abril,Merd ⵎⴻⵔⵔⴰⴷ Murad,Tipaza Tipaza,DZ,Argelia
+24h,35.53445,-0.27436,296.79,17 de abril,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
+24h,35.56842,-0.93817,301.38,17 de abril,Boutlessis ⴱⵓⵜⵍⵉⵍⵉⵙ Potlis,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.73157,-5.75488,299.85,17 de abril,Albahraoyine bahrawis,Provincia de Fahs-Anjra,MA,Marruecos
+24h,35.55003,-5.80204,305.56,17 de abril,"Caïdat de Dar Chaoui, Dar al -Shawi",Préfección de Tanger-Ssilah Tánger-Asilah Empleo,MA,Marruecos
+24h,34.59798,-2.34738,301.24,17 de abril,Apóstoles de rislano,Provincia de Berkane Berkane Región,MA,Marruecos
