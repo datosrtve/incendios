@@ -1,460 +1,651 @@
 tipo,latitude,longitude,bright,date,admin2,admin3,country_code,country_es
-24h,65.76866,24.1902,332.72,16 de abril,Tornio,Lapin aluehallintovirasto,FI,Finlandia
-24h,65.76556,24.18717,330.07,16 de abril,Tornio,Lapin aluehallintovirasto,FI,Finlandia
-24h,65.56385,22.2185,336.36,16 de abril,Luleå,Norrbottens län,SE,Suecia
-24h,64.64718,24.43149,314.82,16 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,64.64407,24.42854,320.08,16 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,64.66504,21.28765,321.21,16 de abril,Skellefteå kommun,Västerbottens län,SE,Suecia
-24h,62.59491,25.75094,296.09,16 de abril,Äänekoski,Länsi- ja Sisä-Suomen aluehallintovirasto,FI,Finlandia
-24h,60.61139,16.79685,297.38,16 de abril,Sandviken,Gävleborgs län,SE,Suecia
-24h,60.71354,15.28792,326.33,16 de abril,Falu kommun,Dalarnas län,SE,Suecia
-24h,58.92025,17.97488,310.77,16 de abril,Nynäshamn,Stockholms län,SE,Suecia
-24h,58.68482,17.13019,301.08,16 de abril,Oxelösund,Södermanlands län,SE,Suecia
-24h,58.68385,17.13668,306.3,16 de abril,Oxelösund,Södermanlands län,SE,Suecia
-24h,58.67417,17.13132,295.87,16 de abril,Oxelösund,Södermanlands län,SE,Suecia
-24h,57.71078,18.80407,307.77,16 de abril,Gotlands kommun,Gotlands län,SE,Suecia
-24h,57.01373,1.83167,309.61,16 de abril,NA,NA,NA,Mundo
-24h,53.51218,10.03769,306.65,16 de abril,Hamburg,NA,DE,Alemania
-24h,50.93124,21.67541,296.07,16 de abril,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
-24h,50.9315,21.67686,299.7,16 de abril,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
-24h,50.8292,20.27408,296.25,16 de abril,gmina Małogoszcz,województwo świętokrzyskie,PL,Polonia
-24h,51.10632,18.93867,305.61,16 de abril,gmina Działoszyn,województwo łódzkie,PL,Polonia
-24h,51.17918,16.10923,327.68,16 de abril,Legnica,województwo dolnośląskie,PL,Polonia
-24h,51.1782,16.11476,308.01,16 de abril,Legnica,województwo dolnośląskie,PL,Polonia
-24h,50.34084,19.33723,298.29,16 de abril,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-24h,50.33625,19.2851,295.91,16 de abril,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-24h,50.33665,19.28525,295.54,16 de abril,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-24h,50.41405,18.14049,296.39,16 de abril,gmina Zdzieszowice,województwo opolskie,PL,Polonia
-24h,49.679,18.66062,326.07,16 de abril,Třinec,Moravskoslezsko,CZ,Rep. Checa
-24h,49.67772,18.66691,298.06,16 de abril,Třinec,Moravskoslezsko,CZ,Rep. Checa
-24h,48.62109,21.19013,295.99,16 de abril,Košice,Košický kraj,SK,Eslovaquia
-24h,48.61842,21.18281,307.16,16 de abril,Košice,Košický kraj,SK,Eslovaquia
-24h,48.61719,21.18806,303.99,16 de abril,Košice,Košický kraj,SK,Eslovaquia
-24h,48.61082,21.19653,296.6,16 de abril,Košice,Košický kraj,SK,Eslovaquia
-24h,48.60672,21.17664,336.41,16 de abril,Košice,Košický kraj,SK,Eslovaquia
-24h,48.60549,21.18188,295.04,16 de abril,Košice,Košický kraj,SK,Eslovaquia
-24h,48.59769,21.17779,295.33,16 de abril,Košice,Košický kraj,SK,Eslovaquia
-24h,51.04556,2.29282,311.44,16 de abril,Grande-Synthe,Hauts-de-France,FR,Francia
-24h,48.45912,17.19139,303.82,16 de abril,Rohožník,Bratislavský kraj,SK,Eslovaquia
-24h,44.43456,25.49653,311.27,16 de abril,Cartojani,Giurgiu,RO,Rumanía
-24h,44.43399,25.50011,302.55,16 de abril,Cartojani,Giurgiu,RO,Rumanía
-24h,46.42231,14.09875,305.82,16 de abril,Jesenice,NA,SI,Eslovenia
-24h,46.22889,13.07496,300.72,16 de abril,Osoppo,Friuli-Venezia Giulia,IT,Italia
-24h,46.06997,13.62794,309.77,16 de abril,Gorenja vas,NA,SI,Eslovenia
-24h,45.52025,11.4962,307.04,16 de abril,Vicenza,Veneto,IT,Italia
-24h,45.51949,11.50105,304.81,16 de abril,Vicenza,Veneto,IT,Italia
-24h,45.38417,11.94602,304.56,16 de abril,Padova,Veneto,IT,Italia
-24h,45.38014,11.94981,319.26,16 de abril,Padova,Veneto,IT,Italia
-24h,45.78104,8.68315,298.7,16 de abril,Comabbio,Lombardia,IT,Italia
-24h,45.51516,10.34604,299.39,16 de abril,Mazzano,Lombardia,IT,Italia
-24h,45.51043,10.24443,307.35,16 de abril,Brescia,Lombardia,IT,Italia
-24h,45.46213,10.45752,329.26,16 de abril,Lonato del Garda,Lombardia,IT,Italia
-24h,45.45884,10.45655,306.22,16 de abril,Lonato del Garda,Lombardia,IT,Italia
-24h,45.48026,10.21486,322,16 de abril,San Zeno Naviglio,Lombardia,IT,Italia
-24h,45.48097,10.20989,305.03,16 de abril,San Zeno Naviglio,Lombardia,IT,Italia
-24h,45.47695,10.21389,320.26,16 de abril,San Zeno Naviglio,Lombardia,IT,Italia
-24h,45.14745,9.94245,304.15,16 de abril,Spinadesco,Lombardia,IT,Italia
-24h,45.14413,9.9415,333.25,16 de abril,Spinadesco,Lombardia,IT,Italia
-24h,43.79541,7.3755,305.61,16 de abril,Nice,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.4481,4.89786,300.21,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44422,4.89711,295.42,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44244,4.87624,326.47,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44175,4.88294,333.49,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44104,4.88965,307.72,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43716,4.88888,304.76,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43647,4.89559,295.86,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.42881,4.96879,295.75,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43329,4.88812,336.4,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43259,4.89481,296.07,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,41.76631,-0.328,300.54,16 de abril,Lanaja,Huesca,ES,España
-24h,41.76585,-0.3278,299.91,16 de abril,Lanaja,Huesca,ES,España
-24h,41.15287,1.00175,295.8,16 de abril,Botarell,Tarragona,ES,España
-24h,41.15382,1.0019,296.23,16 de abril,Botarell,Tarragona,ES,España
-24h,40.83131,0.50142,310.67,16 de abril,Tortosa,Tarragona,ES,España
-24h,39.0816,9.0187,296.64,16 de abril,Sarroccu/Sarroch,Sardigna/Sardegna,IT,Italia
-24h,40.24827,-3.47449,305,16 de abril,Morata de Tajuña,Comunidad de Madrid,ES,España
-24h,40.24248,-3.47503,313.97,16 de abril,Morata de Tajuña,Comunidad de Madrid,ES,España
-24h,40.2481,-3.47385,304.29,16 de abril,Morata de Tajuña,Comunidad de Madrid,ES,España
-24h,40.24231,-3.47439,311.45,16 de abril,Morata de Tajuña,Comunidad de Madrid,ES,España
-24h,39.93855,-3.74581,300.47,16 de abril,Yepes,Toledo,ES,España
-24h,37.43964,15.0318,300.35,16 de abril,Catania,Sicilia,IT,Italia
-24h,39.44714,-0.58471,302.68,16 de abril,Chiva,València / Valencia,ES,España
-24h,39.4457,-0.58486,302.91,16 de abril,Chiva,València / Valencia,ES,España
-24h,38.66753,-4.05249,295.6,16 de abril,Puertollano,Ciudad Real,ES,España
-24h,38.37858,-0.5469,296.39,16 de abril,Alacant / Alicante,Alacant / Alicante,ES,España
-24h,38.17614,-1.72715,327.19,16 de abril,Cehegín,Región de Murcia,ES,España
-24h,37.97875,-1.154,337.72,16 de abril,Murcia,Región de Murcia,ES,España
-24h,37.36124,-6.67479,296.32,16 de abril,Niebla,Huelva,ES,España
-24h,36.96745,-1.90447,304.14,16 de abril,Carboneras,Almería,ES,España
-24h,65.77129,24.19682,332.03,16 de abril,Tornio,Lapin aluehallintovirasto,FI,Finlandia
-24h,65.56256,22.22479,326.19,16 de abril,Luleå,Norrbottens län,SE,Suecia
-24h,64.64767,24.42551,308.23,16 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,64.65692,24.44014,301.83,16 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,64.64651,24.42766,319.61,16 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,57.01207,1.84092,303.15,16 de abril,NA,NA,NA,Mundo
-24h,57.25919,0.81192,299.46,16 de abril,NA,NA,NA,Mundo
-24h,57.25558,0.80899,318.15,16 de abril,NA,NA,NA,Mundo
-24h,56.40041,2.06214,303.89,16 de abril,NA,NA,NA,Mundo
-24h,51.04687,2.30027,313.53,16 de abril,Grande-Synthe,Hauts-de-France,FR,Francia
-24h,48.98307,1.75856,303.31,16 de abril,Mantes-la-Jolie,Île-de-France,FR,Francia
-24h,43.44714,4.89703,321.06,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.45001,4.88894,296.9,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44656,4.87666,337.27,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44368,4.88479,310.92,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43448,4.8887,318.25,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44932,4.89104,310.73,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44648,4.89918,310.11,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44584,4.87869,342.58,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44299,4.88687,302.47,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43669,4.88261,298.19,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43385,4.89076,313.44,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,44.98232,-0.04271,306.9,16 de abril,Petit-Palais-et-Cornemps,Nouvelle-Aquitaine,FR,Francia
-24h,40.24805,-3.47251,319.16,16 de abril,Morata de Tajuña,Comunidad de Madrid,ES,España
-24h,40.24301,-3.47474,299.41,16 de abril,Morata de Tajuña,Comunidad de Madrid,ES,España
-24h,38.37592,-0.54349,295.95,16 de abril,Alacant / Alicante,Alacant / Alicante,ES,España
-24h,38.66615,-4.04932,297.29,16 de abril,Puertollano,Ciudad Real,ES,España
-24h,38.50437,-8.93582,299.82,16 de abril,Setúbal,Setúbal,PT,Portugal
-24h,64.6451,24.42749,336.04,16 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,37.41503,28.19284,333.18,16 de abril,Yatağan,Ege Bölgesi,TR,Turquía
-24h,40.36234,34.18446,333.72,16 de abril,Sungurlu,Çorum,TR,Turquía
-24h,39.77795,28.20244,330.98,16 de abril,Susurluk,Balıkesir,TR,Turquía
-24h,40.81194,34.85052,333.58,16 de abril,Laçin,Çorum,TR,Turquía
-24h,40.44253,27.13891,333.4,16 de abril,Biga,Çanakkale,TR,Turquía
-24h,49.67958,18.66807,330.03,16 de abril,Třinec,Moravskoslezsko,CZ,Rep. Checa
-24h,50.41354,18.14568,332.9,16 de abril,Zdzieszowice,województwo opolskie,PL,Polonia
-24h,51.17712,16.11251,327.08,16 de abril,Legnica,województwo dolnośląskie,PL,Polonia
-24h,58.66917,17.13861,331.01,16 de abril,Oxelösund,Södermanlands län,SE,Suecia
-24h,58.68351,17.13624,328.58,16 de abril,Oxelösund,Södermanlands län,SE,Suecia
-24h,58.68253,17.13648,328.01,16 de abril,Oxelösund,Södermanlands län,SE,Suecia
-24h,58.53387,15.00741,333.77,16 de abril,Motala,Östergötlands län,SE,Suecia
-24h,58.36033,12.37747,343.5,16 de abril,Vänersborgs kommun,Västra Götalands län,SE,Suecia
-24h,58.35757,12.38195,335.47,16 de abril,Vänersborgs kommun,Västra Götalands län,SE,Suecia
-24h,62.28687,17.34281,328.22,16 de abril,Njurunda distrikt,Västernorrlands län,SE,Suecia
-24h,58.35474,0.8623,343.19,16 de abril,NA,NA,NA,Mundo
-24h,64.64585,24.43055,332.27,16 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,64.64429,24.4229,329.04,16 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,37.74348,-1.12707,356.4,16 de abril,Fuente Álamo de Murcia,Región de Murcia,ES,España
-24h,41.94606,2.24826,336.04,16 de abril,Gurb,Barcelona,ES,España
-24h,41.98101,2.10535,339.09,16 de abril,Olost,Barcelona,ES,España
-24h,42.44193,3.15629,352.02,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.4412,3.15169,352.11,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44048,3.14709,353.72,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.43976,3.14249,343.56,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44663,3.16456,343.65,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44592,3.15996,334,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44519,3.15535,343.76,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44447,3.15075,355.23,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44375,3.14614,356.08,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44302,3.14155,353.75,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.4423,3.13695,354.27,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.4499,3.16362,338.01,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44918,3.15902,332.06,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44774,3.14981,333.74,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44701,3.14521,342.71,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.44629,3.14061,334.95,16 de abril,Céret,Occitanie,FR,Francia
-24h,42.45028,3.1443,325.57,16 de abril,Céret,Occitanie,FR,Francia
-24h,43.4333,4.8927,334.96,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43663,4.89183,333.67,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43996,4.89097,334.62,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44462,4.89982,342.46,16 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.60515,4.95117,325.56,16 de abril,NA,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,42.43491,-2.27471,327.14,16 de abril,Agoncillo,La Rioja,ES,España
-24h,43.76053,4.43164,331.86,16 de abril,Nîmes,Occitanie,FR,Francia
-24h,43.30729,1.18831,332.03,16 de abril,Muret,Occitanie,FR,Francia
-24h,44.30127,7.73502,338.18,16 de abril,Borgata Norea,Piemonte,IT,Italia
-24h,41.43955,-8.4334,351.28,16 de abril,Joane,Braga,PT,Portugal
-24h,42.86654,-2.66802,327.73,16 de abril,Vitoria-Gasteiz,Araba/Álava,ES,España
-24h,42.86521,-2.6744,328.08,16 de abril,Vitoria-Gasteiz,Araba/Álava,ES,España
-24h,43.64425,1.42645,326.25,16 de abril,Toulouse,Occitanie,FR,Francia
-24h,42.86418,-2.66821,328.05,16 de abril,Vitoria-Gasteiz,Araba/Álava,ES,España
-24h,42.86282,-2.67457,325.94,16 de abril,Vitoria-Gasteiz,Araba/Álava,ES,España
-24h,42.86792,-2.66968,325.37,16 de abril,Vitoria-Gasteiz,Araba/Álava,ES,España
-24h,45.14676,9.94607,341.94,16 de abril,Cremona,Lombardia,IT,Italia
-24h,45.46039,10.4583,330.01,16 de abril,Lonato del Garda,Lombardia,IT,Italia
-24h,43.52249,-5.72857,341.81,16 de abril,Gijón/Xixón,Asturias / Asturies,ES,España
-24h,43.52391,-5.72494,333.7,16 de abril,Gijón/Xixón,Asturias / Asturies,ES,España
-24h,43.52256,-5.73058,325.15,16 de abril,Gijón/Xixón,Asturias / Asturies,ES,España
-24h,43.53607,-5.82986,326.91,16 de abril,Carreño,Asturias / Asturies,ES,España
-24h,44.80637,-0.68055,335.48,16 de abril,Pessac,Nouvelle-Aquitaine,FR,Francia
-24h,45.79773,3.11117,341,16 de abril,Clermont-Ferrand,Auvergne-Rhône-Alpes,FR,Francia
-24h,45.85164,0.10715,348.43,16 de abril,Confolens,Nouvelle-Aquitaine,FR,Francia
-24h,45.85495,0.10597,349.81,16 de abril,Confolens,Nouvelle-Aquitaine,FR,Francia
-24h,46.24761,-0.08459,349.27,16 de abril,Niort,Nouvelle-Aquitaine,FR,Francia
-24h,51.04498,2.296,328.29,16 de abril,Grande-Synthe,Hauts-de-France,FR,Francia
-24h,53.58012,-0.61836,329.96,16 de abril,Scunthorpe,England,GB,Reino Unido
-24h,58.3282,15.1315,326.27,16 de abril,Mjölby,Östergötlands län,SE,Suecia
-24h,40.09998,-4.47275,341.58,16 de abril,Hormigos,Toledo,ES,España
-24h,41.67808,-7.80526,330.03,16 de abril,Boticas,Vila Real,PT,Portugal
-24h,36.86929,34.76257,308.72,16 de abril,Akdeniz,Mersin,TR,Turquía
-24h,36.26427,33.73262,302.91,16 de abril,NA,Mersin,TR,Turquía
-24h,64.64709,24.41977,301.03,16 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,50.03775,18.48585,297.09,17 de abril,Radlin,województwo śląskie,PL,Polonia
-24h,49.81311,18.31992,301.65,17 de abril,Ostrava,Moravskoslezsko,CZ,Rep. Checa
-24h,49.79522,18.32426,330.54,17 de abril,Ostrava,Moravskoslezsko,CZ,Rep. Checa
-24h,49.67933,18.6617,317.78,17 de abril,Třinec,Moravskoslezsko,CZ,Rep. Checa
-24h,51.04577,2.29742,313.33,17 de abril,Grande-Synthe,Hauts-de-France,FR,Francia
-24h,51.03988,2.29717,295.57,17 de abril,Grande-Synthe,Hauts-de-France,FR,Francia
-24h,51.03415,2.28357,296.49,17 de abril,Dunkerque,Hauts-de-France,FR,Francia
-24h,51.04768,2.29678,312.79,17 de abril,Grande-Synthe,Hauts-de-France,FR,Francia
-24h,51.04179,2.29657,302.28,17 de abril,Grande-Synthe,Hauts-de-France,FR,Francia
-24h,51.03601,2.28965,300.46,17 de abril,Grande-Synthe,Hauts-de-France,FR,Francia
-24h,48.64582,20.22166,296.68,17 de abril,Jelšava,Banskobystrický kraj,SK,Eslovaquia
-24h,46.06913,13.63009,307.81,17 de abril,Morsko,NA,SI,Eslovenia
-24h,45.38371,11.9448,301.98,17 de abril,Padova,Veneto,IT,Italia
-24h,45.46068,10.45318,311.27,17 de abril,Lonato del Garda,Lombardia,IT,Italia
-24h,45.45997,10.45996,303.93,17 de abril,Lonato del Garda,Lombardia,IT,Italia
-24h,45.47776,10.21234,324.44,17 de abril,San Zeno Naviglio,Lombardia,IT,Italia
-24h,45.14771,9.94019,295.37,17 de abril,Spinadesco,Lombardia,IT,Italia
-24h,45.1438,9.93938,319.57,17 de abril,Spinadesco,Lombardia,IT,Italia
-24h,45.09881,8.88377,295.73,17 de abril,Sannazzaro de' Burgondi,Lombardia,IT,Italia
-24h,43.4463,4.89347,308.97,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44583,4.90109,301.16,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.4423,4.87759,335.88,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44136,4.89289,305.76,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.4409,4.90048,315.08,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43642,4.89229,301.57,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43148,4.89167,297.73,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,40.92913,16.90468,295.9,17 de abril,Casamassima,Puglia,IT,Italia
-24h,40.63032,18.00066,295.61,17 de abril,Brindisi,Puglia,IT,Italia
-24h,41.31432,1.6635,295.81,17 de abril,Santa Margarida i els Monjos,Barcelona,ES,España
-24h,39.08126,9.02101,299.37,17 de abril,Sarroccu/Sarroch,Sardigna/Sardegna,IT,Italia
-24h,39.08215,9.02057,299.79,17 de abril,Sarroccu/Sarroch,Sardigna/Sardegna,IT,Italia
-24h,39.66249,-0.24947,296.82,17 de abril,Sagunt / Sagunto,València / Valencia,ES,España
-24h,36.90272,14.72635,296.96,17 de abril,Ragusa,Sicilia,IT,Italia
-24h,37.57222,-0.91951,298.66,17 de abril,Cartagena,Región de Murcia,ES,España
-24h,36.75866,-2.72153,326.81,17 de abril,El Ejido,Almería,ES,España
-24h,36.75879,-2.72965,297.24,17 de abril,El Ejido,Almería,ES,España
-24h,36.75918,-2.72124,323.71,17 de abril,El Ejido,Almería,ES,España
-24h,36.75935,-2.72929,298.5,17 de abril,El Ejido,Almería,ES,España
-24h,34.29585,11.40445,316.85,17 de abril,NA,NA,NA,Mundo
-24h,65.56644,22.22005,308.61,17 de abril,Luleå,Norrbottens län,SE,Suecia
-24h,65.56301,22.21777,335.19,17 de abril,Luleå,Norrbottens län,SE,Suecia
-24h,65.56409,22.20854,299.1,17 de abril,Luleå,Norrbottens län,SE,Suecia
-24h,64.64933,24.42177,308.69,17 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,64.64497,24.4274,325.85,17 de abril,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
-24h,64.26904,7.19098,298.78,17 de abril,NA,NA,NA,Mundo
-24h,64.26891,7.19826,300.93,17 de abril,NA,NA,NA,Mundo
-24h,60.60988,16.79607,303.8,17 de abril,Sandviken,Gävleborgs län,SE,Suecia
-24h,59.5444,1.52452,324.4,17 de abril,NA,NA,NA,Mundo
-24h,59.54453,1.53388,314.57,17 de abril,NA,NA,NA,Mundo
-24h,59.54621,1.53106,333.74,17 de abril,NA,NA,NA,Mundo
-24h,58.68324,17.13638,295.52,17 de abril,Oxelösund,Södermanlands län,SE,Suecia
-24h,58.68304,17.12983,296.22,17 de abril,Oxelösund,Södermanlands län,SE,Suecia
-24h,58.67065,17.14101,325.76,17 de abril,Oxelösund,Södermanlands län,SE,Suecia
-24h,58.67152,17.13326,301.1,17 de abril,Oxelösund,Södermanlands län,SE,Suecia
-24h,58.69425,1.2718,323.79,17 de abril,NA,NA,NA,Mundo
-24h,57.70888,18.80325,305.58,17 de abril,Gotlands kommun,Gotlands län,SE,Suecia
-24h,58.69061,1.27362,322.22,17 de abril,NA,NA,NA,Mundo
-24h,58.27976,6.89092,310.99,17 de abril,Kvinesdal,Agder,NO,Noruega
-24h,57.06386,9.97814,315.56,17 de abril,Aalborg,Region Nordjylland,DK,Dinamarca
-24h,57.05938,9.97722,303.16,17 de abril,Aalborg,Region Nordjylland,DK,Dinamarca
-24h,50.92887,21.67753,307.92,17 de abril,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
-24h,51.10431,18.94043,314.81,17 de abril,gmina Działoszyn,województwo łódzkie,PL,Polonia
-24h,50.80736,20.53525,295.46,17 de abril,gmina Nowiny,województwo świętokrzyskie,PL,Polonia
-24h,50.80119,19.17587,304.74,17 de abril,Częstochowa,województwo śląskie,PL,Polonia
-24h,51.18014,16.11111,326.16,17 de abril,Legnica,województwo dolnośląskie,PL,Polonia
-24h,50.49276,19.45732,307.18,17 de abril,Zawiercie,województwo śląskie,PL,Polonia
-24h,50.49099,19.46795,313.17,17 de abril,Zawiercie,województwo śląskie,PL,Polonia
-24h,50.34282,19.34305,297.76,17 de abril,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-24h,50.34046,19.33643,299.03,17 de abril,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-24h,50.33775,19.29007,309,17 de abril,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-24h,50.33539,19.28346,297,17 de abril,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
-24h,50.53571,17.9794,306.24,17 de abril,gmina Gogolin,województwo opolskie,PL,Polonia
-24h,50.4173,18.14785,297.78,17 de abril,Leśnica,województwo opolskie,PL,Polonia
-24h,50.41487,18.1413,299.79,17 de abril,gmina Zdzieszowice,województwo opolskie,PL,Polonia
-24h,50.07625,20.09903,308.72,17 de abril,Kraków,województwo małopolskie,PL,Polonia
-24h,64.66254,21.28316,299.49,17 de abril,Skellefteå kommun,Västerbottens län,SE,Suecia
-24h,66.02903,8.09026,296.3,17 de abril,NA,NA,NA,Mundo
-24h,63.31919,9.1421,295.91,17 de abril,Heim,Trøndelag,NO,Noruega
-24h,58.36287,12.38112,306.83,17 de abril,Vänersborgs kommun,Västra Götalands län,SE,Suecia
-24h,59.13066,9.62507,301.45,17 de abril,Porsgrunn,Vestfold og Telemark,NO,Noruega
-24h,58.34523,11.43135,296,17 de abril,Lysekils kommun,Västra Götalands län,SE,Suecia
-24h,57.06041,9.97942,325.51,17 de abril,Aalborg,Region Nordjylland,DK,Dinamarca
-24h,58.693,1.28178,307.69,17 de abril,NA,NA,NA,Mundo
-24h,58.46149,0.24969,310.75,17 de abril,NA,NA,NA,Mundo
-24h,53.63499,-0.24958,295.43,17 de abril,North Killingholme,England,GB,Reino Unido
-24h,53.63366,-0.24307,307.15,17 de abril,South Killingholme,England,GB,Reino Unido
-24h,48.98474,1.7583,314.7,17 de abril,Limay,Île-de-France,FR,Francia
-24h,48.82485,2.09195,297.64,17 de abril,Versailles,Île-de-France,FR,Francia
-24h,43.44934,4.89566,339.67,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44782,4.90074,301.07,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44016,4.92619,302.77,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44248,4.89768,307.13,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44321,4.87452,307.79,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44169,4.87956,319.12,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43865,4.88964,307.92,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43713,4.89468,306.44,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.4454,4.87883,337.76,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.44093,4.89401,296.96,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43559,4.891,316.58,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.43408,4.8961,300.86,17 de abril,Fos-sur-Mer,Provence-Alpes-Côte d'Azur,FR,Francia
-24h,43.03694,-2.21937,306.98,17 de abril,Olaberria,Gipuzkoa,ES,España
-24h,43.52594,-5.72697,321.46,17 de abril,Gijón/Xixón,Asturias / Asturies,ES,España
-24h,41.40662,1.99891,301.48,17 de abril,Sant Vicenç dels Horts,Barcelona,ES,España
-24h,41.31176,1.6627,305.77,17 de abril,Santa Margarida i els Monjos,Barcelona,ES,España
-24h,43.34555,-8.43557,305.68,17 de abril,A Coruña,A Coruña,ES,España
-24h,41.18024,1.22998,302.02,17 de abril,la Pobla de Mafumet,Tarragona,ES,España
-24h,40.57796,0.54199,296,17 de abril,Alcanar,Tarragona,ES,España
-24h,41.70017,-8.71308,297.79,17 de abril,Viana do Castelo,Viana do Castelo,PT,Portugal
-24h,38.37901,-0.54141,297.07,17 de abril,Alacant / Alicante,Alacant / Alicante,ES,España
-24h,39.68497,-8.9069,298.89,17 de abril,Maceira,Leiria,PT,Portugal
-24h,38.66285,-6.55109,302.38,17 de abril,Villalba de los Barros,Badajoz,ES,España
-24h,38.6306,-9.07657,306.74,17 de abril,Seixal,Setúbal,PT,Portugal
-24h,38.62309,-9.07389,301.06,17 de abril,Seixal,Setúbal,PT,Portugal
-24h,38.50303,-8.93594,308.24,17 de abril,Setúbal,Setúbal,PT,Portugal
-24h,65.56709,22.22196,308.36,17 de abril,Luleå,Norrbottens län,SE,Suecia
-24h,65.56413,22.23087,300.35,17 de abril,Luleå,Norrbottens län,SE,Suecia
-24h,65.56356,22.21484,335,17 de abril,Luleå,Norrbottens län,SE,Suecia
-24h,65.5606,22.22373,295.48,17 de abril,Luleå,Norrbottens län,SE,Suecia
-24h,60.21687,29.61736,296.45,16 de abril,Ushvovo,San Petersburgo,RU,Rusia
-24h,60.52309,28.13452,296.34,16 de abril,Asentamiento rural de Seleznevsky,Región de Leningrado,RU,Rusia
-24h,44.60034,20.97565,300.82,16 de abril,Ciudad de Smederevo,Serbia central,RS,Serbia
-24h,44.59605,20.97357,338.03,16 de abril,Ciudad de Smederevo,Serbia central,RS,Serbia
-24h,36.87791,6.94285,300.67,16 de abril,Skikda ⵙⴽⵉⴽⴷⴰ skikda,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,36.87728,6.94731,301.49,16 de abril,Skikda ⵙⴽⵉⴽⴷⴰ skikda,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,36.86887,6.98234,335.47,16 de abril,Hamadi Krouma ⵃⴻⵎⵎⴰⴷⵉ ⴽⵔⵓⵎⴰ Hammadi Karma,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,36.76122,7.31136,295.66,16 de abril,Bekkouche Lakhdar ⴱⴻⴽⴽⵓⵛ ⵍⴻⵅⴹⴻⵔ Green Kush,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
-24h,36.7503,3.0825,306.91,16 de abril,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ,Alger Argelia,DZ,Argelia
-24h,36.59731,3.13722,299.89,16 de abril,Larbâa ⵍⴰⵔⴱⵄⴰ miércoles,Blida Blida,DZ,Argelia
-24h,36.59695,2.87907,297.52,16 de abril,Boufarik ⴱⵓ ⴼⴰⵔⵉⴽ boufarik,Blida Blida,DZ,Argelia
-24h,36.59782,2.87935,297.66,16 de abril,Boufarik ⴱⵓ ⴼⴰⵔⵉⴽ boufarik,Blida Blida,DZ,Argelia
-24h,35.86754,6.03049,303.21,16 de abril,El Hassi Bergug,Mila ⵎⵉⵍⴰ Mila,DZ,Argelia
-24h,35.87806,4.44921,316.74,16 de abril,El euch ⵍⵄⴻⵛ nido,Bordj bou arrreidj ⴱⵓⵔⴵ ⴱⵓ ⵄⵔⵉⵔⵉⴵ ⵄⵔⵉⵔⵉⴵ burj bou arreridj,DZ,Argelia
-24h,35.88124,4.44931,315.28,16 de abril,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,35.87764,4.44855,297.1,16 de abril,El euch ⵍⵄⴻⵛ nido,Bordj bou arrreidj ⴱⵓⵔⴵ ⴱⵓ ⵄⵔⵉⵔⵉⴵ ⵄⵔⵉⵔⵉⴵ burj bou arreridj,DZ,Argelia
-24h,36.13783,1.19382,322,16 de abril,OU ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ ⴼⴰⵔⴻⵙ,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,36.12936,1.23835,307.99,16 de abril,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,36.12889,1.24338,303.64,16 de abril,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,36.12656,1.24078,303.71,16 de abril,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,35.23198,8.17366,312.74,16 de abril,El ma labiodh ⵍⵎⴰ ⵍⴻⴱⵢⴻⴹ agua blanca,Tebessa ⵴ రర రర ipe swee 2017,DZ,Argelia
-24h,35.71493,4.76285,299.52,16 de abril,OULLED DERDJ ⵡⵍⴰⴷ ⴷⴻⵔⵔⴰⴵ Ciudades de arrastre,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,36.09671,1.09864,303.09,16 de abril,Sobha ⵚⵓⴱⵃⴰ Sabha,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,35.71062,4.47687,302.04,16 de abril,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,35.70702,4.47617,296.38,16 de abril,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,35.34828,5.76205,327.38,16 de abril,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
-24h,35.81755,-0.27531,323.25,16 de abril,Aïn el bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ ein al -bayya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81704,-0.26944,330.88,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81286,-0.27567,301.92,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81236,-0.26982,297.37,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80981,-0.24022,319.85,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.8093,-0.23421,297.12,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80668,-0.25845,299.04,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80566,-0.24658,299.04,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.09419,5.64858,302.43,16 de abril,Djemorah ⴵⵎⵓⵔⴰ Jamura,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,34.98032,5.71612,305.05,16 de abril,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,35.52965,-0.27676,296.88,16 de abril,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
-24h,35.56797,-0.94139,296.85,16 de abril,Boutlessis ⴱⵓⵜⵍⵉⵍⵉⵙ Potlis,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,34.78666,5.41419,303.13,16 de abril,Tolga ⵜⴰⵍⴳⴰ Tulka,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,35.20107,-0.58436,295.3,16 de abril,ZeroUala ⵣⴻⵔⵡⴰⵍⴰ Zarwala,Sidi Bel Abbès ⵙⵉⴷⵉ ⴱⴻⵍ ⵄⴻⴱⴱⴰⵙ Sidi Bel Abbas,DZ,Argelia
-24h,34.43911,5.8874,308.1,16 de abril,Oumache ⵓⵎⵎⴰⵛ omash,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,35.00106,-5.97243,298.17,16 de abril,Cathuth salió de la holgazanería.,Provincia de Larache Región de Larache,MA,Marruecos
-24h,34.43903,2.05797,302.01,16 de abril,Beidha ⴱⴻⵢⴹⴰ White,Lghouat ⵍⴻⵖⵡⴰⵟ laghouat,DZ,Argelia
-24h,34.99896,-5.97203,298.22,16 de abril,Cathuth salió de la holgazanería.,Provincia de Larache Región de Larache,MA,Marruecos
-24h,34.59864,-2.34825,299.98,16 de abril,Apóstoles de rislano,Provincia de Berkane Berkane Región,MA,Marruecos
-24h,35.81396,-0.23537,311.84,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81163,-0.22803,300.97,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81057,-0.22976,326.25,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81285,-0.23712,304.02,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81558,-0.26982,345.75,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81327,-0.26237,322.05,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81099,-0.25504,332.15,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80866,-0.24753,300.72,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.53225,-0.27652,302.62,16 de abril,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
-24h,35.53141,-0.27578,302.41,16 de abril,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
-24h,34.28051,-6.57431,302.04,16 de abril,Partidario de MNASRA,"Provincia de Kenitra, región de Quneitra",MA,Marruecos
-24h,51.42996,34.85667,342.24,16 de abril,Trump -Concil del consejo de la aldea,Región de Kursk,RU,Rusia
-24h,43.89184,22.33202,337.99,16 de abril,Ciudad de Zajecar,Serbia central,RS,Serbia
-24h,47.86542,33.43528,330.05,16 de abril,Comunidad de la ciudad de Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
-24h,48.51793,34.63474,331.55,16 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,55.94398,34.40361,333.8,16 de abril,Asentamiento rural de Nikolskoye,Región de smolensk,RU,Rusia
-24h,55.9613,34.5436,338.47,16 de abril,NA,Región de tver,RU,Rusia
-24h,56.24261,34.38607,330.23,16 de abril,Rzhev,Región de tver,RU,Rusia
-24h,60.52203,28.12976,337.13,16 de abril,Asentamiento rural de Seleznevsky,Región de Leningrado,RU,Rusia
-24h,34.85051,5.9239,337.6,16 de abril,Sidi Okba ⵙⵉⴷⵉ O ⴽⴱⴰ Sidi Aqaba,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,35.34692,5.76351,340.62,16 de abril,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
-24h,34.51612,-3.06502,333.17,16 de abril,Melga el Ouidane yaciendo al -widan,Provincia de Taourrt Towart Provincia,MA,Marruecos
-24h,35.81062,-0.23491,330.81,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80688,-0.25326,338.03,16 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,36.74676,3.08323,332.4,16 de abril,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ,Alger Argelia,DZ,Argelia
-24h,34.84314,-6.07017,337.74,16 de abril,Lalla Mimouna Lala Maimouna,"Provincia de Kenitra, región de Quneitra",MA,Marruecos
-24h,48.53663,34.64201,307.5,16 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,48.53616,34.64782,300.99,16 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,48.53242,34.64126,337.04,16 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,48.53196,34.64707,322.5,16 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,48.52729,34.65209,304.34,16 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,48.52076,34.62722,301.22,16 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,48.52081,34.62574,299.02,16 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,48.47048,34.96472,298.09,16 de abril,Dnipro,Región de dnipropetrovsk,UA,Ucrania
-24h,48.47355,34.62976,300.8,16 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,47.8664,33.43082,339.03,16 de abril,Comunidad de la ciudad de Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
-24h,47.8674,33.43111,337.04,16 de abril,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
-24h,35.17529,33.20296,297.78,16 de abril,Tonto,Nicosia,CY,Chipre
-24h,34.72523,33.31683,297.84,16 de abril,Grande,Lago,CY,Chipre
-24h,36.59044,10.32034,299.89,17 de abril,NA,Delegación de marané,TN,Túnez
-24h,36.79113,7.68075,303.13,17 de abril,Sidi Amar ⵙⵉⴷⵉ ⵄⴻⵎⵎⴰⵔ Sidi Ammar,Annaba ⵄⴻⵏⵏⴰⴱⴰ Annaba,DZ,Argelia
-24h,36.5023,10.02596,295.1,17 de abril,Estación Bir Masharqa,La delegación de Bir Masharqa,TN,Túnez
-24h,36.74793,3.08021,306.38,17 de abril,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ,Alger Argelia,DZ,Argelia
-24h,36.68041,3.12125,296.66,17 de abril,Baraki Baraqi,Alger Argelia,DZ,Argelia
-24h,36.63201,3.23084,308.68,17 de abril,Meftah ⵎⴻⴼⵜⴰⵃ clave,Blida Blida,DZ,Argelia
-24h,36.48113,3.80039,298.95,17 de abril,Qalar,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
-24h,36.48346,3.80011,296.1,17 de abril,Qalar,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
-24h,36.33331,5.48269,299.28,17 de abril,Beni Fouda,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
-24h,36.18189,3.74593,304.19,17 de abril,Agrio el ghozlane,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
-24h,36.05246,5.33641,296.47,17 de abril,Niños Qasim,Sétif ⵙⵟⵉⴼ setif,DZ,Argelia
-24h,36.2435,2.14991,314.36,17 de abril,Sidi Lakhdar,Aïn defla ⵄⵉⵏ ⴷⴻⴼⵍⴰ ain defla,DZ,Argelia
-24h,36.13105,1.23852,304.4,17 de abril,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,36.12517,1.24282,296.25,17 de abril,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,35.88181,4.44876,297.4,17 de abril,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,36.12762,1.24157,302.27,17 de abril,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,35.87955,4.44798,306.3,17 de abril,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,35.70944,4.47582,296.54,17 de abril,Mnsila ⵝⴰⵎⵙⵉⵍⵜ Messila,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,35.23187,8.17471,303.6,17 de abril,El ma labiodh ⵍⵎⴰ ⵍⴻⴱⵢⴻⴹ agua blanca,Tebessa ⵴ రర రర ipe swee 2017,DZ,Argelia
-24h,35.36861,6.41832,295.06,17 de abril,Aris ⴰⵔⵔⵉⵙ Aris,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
-24h,35.8147,-0.27457,340.6,17 de abril,Aïn el bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ ein al -bayya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81495,-0.28001,306.12,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80812,-0.26362,295.71,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80788,-0.25815,307.38,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.8074,-0.24709,297.44,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80716,-0.24156,306.2,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.8056,-0.34727,301.31,17 de abril,Arzew ⴰⵔⴻⵣⵢⵓ Arzio,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.35156,5.76264,295.9,17 de abril,Legride,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
-24h,35.34726,5.76207,317.1,17 de abril,Tilatou ⵜⵉⵍⴰⵜⵓ tilatu,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
-24h,35.3497,5.76088,329.27,17 de abril,Legride,Batna ⵜⴱⴰⵜⴻⵏⵜ Batna,DZ,Argelia
-24h,34.72702,10.51583,327.54,17 de abril,Escorpión,Detamento de ayuda,TN,Túnez
-24h,35.67507,0.22919,299.61,17 de abril,El Ghomri ⵍⵖⵓⵎⵔⵉ Al -Ghamri,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
-24h,34.72764,10.51134,300.17,17 de abril,Escorpión,Detamento de ayuda,TN,Túnez
-24h,34.72362,10.51515,305.25,17 de abril,Escorpión,Detamento de ayuda,TN,Túnez
-24h,35.26951,2.19148,296.34,17 de abril,Rechaiga ⵔⵛⴰⵢⴳⴰ Al -rashea,Tiare ⵜⵢⴰⵔⴻⵜ tiaret,DZ,Argelia
-24h,34.98103,5.71566,299.57,17 de abril,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
-24h,34.43402,8.72724,297.38,17 de abril,NA,Delegación del sur de Gafsa,TN,Túnez
-24h,56.81062,28.19169,309.53,17 de abril,Krasnogorodskaya Volost,Región de pskov,RU,Rusia
-24h,48.52312,34.63044,306.61,17 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,48.5242,34.62944,295.54,17 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,48.52231,34.6353,301.16,17 de abril,Kamianske,Región de dnipropetrovsk,UA,Ucrania
-24h,47.86692,33.43428,331.59,17 de abril,Comunidad de la ciudad de Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
-24h,47.86861,33.42893,312.83,17 de abril,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
-24h,36.74852,3.08218,297.44,17 de abril,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ,Alger Argelia,DZ,Argelia
-24h,36.62936,3.23071,300.79,17 de abril,Meftah ⵎⴻⴼⵜⴰⵃ clave,Blida Blida,DZ,Argelia
-24h,36.18167,3.75052,308.69,17 de abril,El Hachimia,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
-24h,35.88383,4.44717,306.6,17 de abril,Hammam delaa ⵃⴻⵎⵎⴰⵎ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ ⴹⴹⴰⵍⵄⴰ,Mnsila ⵎⵙⵉⵍⴰ Messila,DZ,Argelia
-24h,36.451,2.44433,297.12,17 de abril,Merd ⵎⴻⵔⵔⴰⴷ Murad,Tipaza Tipaza,DZ,Argelia
-24h,36.44945,2.44966,295.16,17 de abril,Merd ⵎⴻⵔⵔⴰⴷ Murad,Tipaza Tipaza,DZ,Argelia
-24h,36.1322,1.23898,298.9,17 de abril,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,36.13084,1.24384,299.55,17 de abril,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
-24h,35.81261,-0.23171,318.22,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.8163,-0.26718,319.85,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81185,-0.25054,296.17,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80738,-0.23387,306.75,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81115,-0.26962,309.73,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80444,-0.2446,298.42,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81087,-0.23179,330.61,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81196,-0.23599,306.97,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81441,-0.26756,333.57,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.81001,-0.25069,295.74,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.80784,-0.24242,299.26,17 de abril,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.53445,-0.27436,296.79,17 de abril,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
-24h,35.52931,-0.27694,303.35,17 de abril,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
-24h,35.56842,-0.93817,301.38,17 de abril,Boutlessis ⴱⵓⵜⵍⵉⵍⵉⵙ Potlis,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
-24h,35.73157,-5.75488,299.85,17 de abril,Albahraoyine bahrawis,Provincia de Fahs-Anjra,MA,Marruecos
-24h,35.55003,-5.80204,305.56,17 de abril,"Caïdat de Dar Chaoui, Dar al -Shawi",Préfección de Tanger-Ssilah Tánger-Asilah Empleo,MA,Marruecos
-24h,34.59798,-2.34738,301.24,17 de abril,Apóstoles de rislano,Provincia de Berkane Berkane Región,MA,Marruecos
+24h,48.45905,17.1936,309.25,23 de April,Rohožník,Bratislavský kraj,SK,Eslovaquia
+24h,45.37654,30.9271,333.27,23 de April,NA,NA,NA,Mundo
+24h,48.28328,14.32764,295.8,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.28597,14.32911,297.24,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.27755,14.33455,329.55,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.27682,14.3417,323.64,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.27444,14.32651,303.36,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.27298,14.34084,307.93,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.2706,14.32564,296.04,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.26218,14.33105,296.45,23 de April,Linz,Oberösterreich,AT,Austria
+24h,47.98644,16.60585,295.42,23 de April,Mannersdorf am Leithagebirge,Niederösterreich,AT,Austria
+24h,48.38558,2.98521,297.99,23 de April,Provins,Île-de-France,FR,Francia
+24h,45.42258,27.9627,301.99,23 de April,Galați,Galați,RO,Rumanía
+24h,45.42134,27.96799,315.29,23 de April,Galați,Galați,RO,Rumanía
+24h,46.94078,18.93826,308.07,23 de April,Dunaújváros,Fejér vármegye,HU,Hungría
+24h,46.9393,18.94838,298.42,23 de April,Dunaújváros,Fejér vármegye,HU,Hungría
+24h,46.93602,18.94736,313.71,23 de April,Dunaújváros,Fejér vármegye,HU,Hungría
+24h,45.44132,22.27313,300.41,23 de April,Var,Caraș-Severin,RO,Rumanía
+24h,46.06708,13.62749,303.07,23 de April,Gorenja vas,NA,SI,Eslovenia
+24h,45.45258,18.03545,297.07,23 de April,Grad Našice,Osječko-baranjska županija,HR,Croacia
+24h,45.46366,10.4528,337.3,23 de April,Lonato del Garda,Lombardia,IT,Italia
+24h,45.46319,10.45913,326.38,23 de April,Lonato del Garda,Lombardia,IT,Italia
+24h,45.4592,10.45205,323.03,23 de April,Lonato del Garda,Lombardia,IT,Italia
+24h,45.45873,10.45838,320.45,23 de April,Lonato del Garda,Lombardia,IT,Italia
+24h,45.14551,9.94159,342.62,23 de April,Spinadesco,Lombardia,IT,Italia
+24h,45.14531,9.94271,342.78,23 de April,Spinadesco,Lombardia,IT,Italia
+24h,41.79873,26.70135,295.96,23 de April,Lalapaşa,Edirne,TR,Turquía
+24h,43.79663,7.37523,301.2,23 de April,Nice,Provence-Alpes-Côte d'Azur,FR,Francia
+24h,41.54814,19.72538,296.23,23 de April,Bashkia Krujë,Shqipëria Veriore,AL,Albania
+24h,40.51782,17.20999,313.77,23 de April,Taranto,Puglia,IT,Italia
+24h,40.50989,17.21729,297.54,23 de April,Taranto,Puglia,IT,Italia
+24h,40.5073,17.21193,325.27,23 de April,Taranto,Puglia,IT,Italia
+24h,40.50333,17.21557,302.35,23 de April,Taranto,Puglia,IT,Italia
+24h,40.50265,17.22008,299.32,23 de April,Taranto,Puglia,IT,Italia
+24h,40.50141,17.20571,312.54,23 de April,Taranto,Puglia,IT,Italia
+24h,40.50073,17.21021,298.65,23 de April,Taranto,Puglia,IT,Italia
+24h,40.49294,17.19412,301.71,23 de April,Taranto,Puglia,IT,Italia
+24h,40.31524,15.90283,295.62,23 de April,Viggiano,Basilicata,IT,Italia
+24h,38.79484,15.20873,311.46,23 de April,Lipari,Sicilia,IT,Italia
+24h,38.79417,15.21367,306.56,23 de April,Lipari,Sicilia,IT,Italia
+24h,38.20443,15.26787,304.12,23 de April,Milazzo,Sicilia,IT,Italia
+24h,37.75045,14.99049,313.9,23 de April,Belpasso,Sicilia,IT,Italia
+24h,37.43943,15.03173,302.72,23 de April,Catania,Sicilia,IT,Italia
+24h,37.21294,15.1696,298.61,23 de April,Augusta,Sicilia,IT,Italia
+24h,37.2096,15.16885,299.13,23 de April,Augusta,Sicilia,IT,Italia
+24h,37.12113,15.22048,299.01,23 de April,Priolo Gargallo,Sicilia,IT,Italia
+24h,65.76961,24.19114,338.36,23 de April,Tornio,Lapin aluehallintovirasto,FI,Finlandia
+24h,65.76608,24.18887,331.33,23 de April,Tornio,Lapin aluehallintovirasto,FI,Finlandia
+24h,66.31042,14.17814,297.05,23 de April,Mo i Rana,Nordland,NO,Noruega
+24h,64.65127,24.42164,296.15,23 de April,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+24h,64.64678,24.42854,310.67,23 de April,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+24h,64.64333,24.42638,311.89,23 de April,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+24h,64.66611,21.28441,328.1,23 de April,Skellefteå kommun,Västerbottens län,SE,Suecia
+24h,64.66236,21.2825,308.37,23 de April,Skellefteå kommun,Västerbottens län,SE,Suecia
+24h,61.03103,28.17563,299.97,23 de April,Lappeenranta,Etelä-Suomen aluehallintovirasto,FI,Finlandia
+24h,61.46248,23.88405,295.82,23 de April,Tampere,Länsi- ja Sisä-Suomen aluehallintovirasto,FI,Finlandia
+24h,58.68241,17.12884,303.19,23 de April,Oxelösund,Södermanlands län,SE,Suecia
+24h,57.70958,18.8067,305.5,23 de April,Gotlands kommun,Gotlands län,SE,Suecia
+24h,57.90373,15.12407,327.59,23 de April,Ydre kommun,Östergötlands län,SE,Suecia
+24h,57.9032,15.1313,298.7,23 de April,Ydre kommun,Östergötlands län,SE,Suecia
+24h,56.69089,22.59029,298.07,23 de April,Brocēni,Kurzeme,LV,Letonia
+24h,55.57796,4.75324,312.36,23 de April,NA,NA,NA,Mundo
+24h,53.69912,18.92219,295.48,23 de April,Kwidzyn,województwo pomorskie,PL,Polonia
+24h,52.17257,14.62822,340.01,23 de April,Eisenhüttenstadt,Brandenburg,DE,Alemania
+24h,52.49126,4.61178,306.5,23 de April,Beverwijk,Noord-Holland,NL,Países Bajos
+24h,52.49167,4.61176,309.07,23 de April,Beverwijk,Noord-Holland,NL,Países Bajos
+24h,50.9303,21.67692,318.96,23 de April,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
+24h,50.94252,21.44241,296.16,23 de April,Ostrowiec Świętokrzyski,województwo świętokrzyskie,PL,Polonia
+24h,51.10479,18.94312,313.02,23 de April,gmina Działoszyn,województwo łódzkie,PL,Polonia
+24h,50.80772,20.53274,312.84,23 de April,gmina Nowiny,województwo świętokrzyskie,PL,Polonia
+24h,50.82765,20.27503,316.76,23 de April,Małogoszcz,województwo świętokrzyskie,PL,Polonia
+24h,51.18086,16.11342,295.47,23 de April,Legnica,województwo dolnośląskie,PL,Polonia
+24h,50.49324,19.46837,295.21,23 de April,Zawiercie,województwo śląskie,PL,Polonia
+24h,50.49232,19.46805,325.3,23 de April,Zawiercie,województwo śląskie,PL,Polonia
+24h,50.49387,19.45681,307.27,23 de April,Zawiercie,województwo śląskie,PL,Polonia
+24h,50.5336,17.97908,319.94,23 de April,gmina Gogolin,województwo opolskie,PL,Polonia
+24h,50.34768,19.29487,299.02,23 de April,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+24h,50.34232,19.33406,302.51,23 de April,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+24h,50.34155,19.33964,313.08,23 de April,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+24h,50.33767,19.29149,309.16,23 de April,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+24h,50.33434,19.29037,312.1,23 de April,Dąbrowa Górnicza,Górnośląsko-Zagłębiowska Metropolia,PL,Polonia
+24h,50.42243,18.14297,295.2,23 de April,Zdzieszowice,województwo opolskie,PL,Polonia
+24h,50.41824,18.14783,295.9,23 de April,Zdzieszowice,województwo opolskie,PL,Polonia
+24h,50.41555,18.14081,304,23 de April,Zdzieszowice,województwo opolskie,PL,Polonia
+24h,50.07652,20.10311,303.75,23 de April,Kraków,województwo małopolskie,PL,Polonia
+24h,50.07445,20.10061,315.53,23 de April,Kraków,województwo małopolskie,PL,Polonia
+24h,51.17492,3.80926,295.8,23 de April,Zelzate,Oost-Vlaanderen,BE,Bélgica
+24h,50.03768,18.48753,302.27,23 de April,Radlin,województwo śląskie,PL,Polonia
+24h,49.79612,18.31996,297.07,23 de April,Vratimov,Moravskoslezsko,CZ,Rep. Checa
+24h,49.68061,18.66658,310.02,23 de April,Třinec,Moravskoslezsko,CZ,Rep. Checa
+24h,49.67799,18.65991,304.38,23 de April,Třinec,Moravskoslezsko,CZ,Rep. Checa
+24h,49.67724,18.66551,297.19,23 de April,Třinec,Moravskoslezsko,CZ,Rep. Checa
+24h,49.89679,15.64005,295.19,23 de April,okres Chrudim,Severovýchod,CZ,Rep. Checa
+24h,49.21675,16.77658,309.46,23 de April,okres Brno-venkov,Jihovýchod,CZ,Rep. Checa
+24h,48.64671,20.21915,298.87,23 de April,Jelšava,Banskobystrický kraj,SK,Eslovaquia
+24h,49.52317,5.90504,317.41,23 de April,Differdange,Canton Esch-sur-Alzette,LU,Luxemburgo
+24h,66.02667,8.08635,295.77,23 de April,NA,NA,NA,Mundo
+24h,60.28948,22.29217,295.05,23 de April,Pargas,Lounais-Suomen aluehallintovirasto,FI,Finlandia
+24h,58.67332,17.13194,295.1,23 de April,Oxelösund,Södermanlands län,SE,Suecia
+24h,57.1113,2.84973,309.79,23 de April,NA,NA,NA,Mundo
+24h,57.01223,1.83749,302.54,23 de April,NA,NA,NA,Mundo
+24h,56.07859,4.22716,308.54,23 de April,NA,NA,NA,Mundo
+24h,55.47513,5.11352,314.34,23 de April,NA,NA,NA,Mundo
+24h,50.53762,17.9793,300.76,23 de April,gmina Gogolin,województwo opolskie,PL,Polonia
+24h,50.04072,18.48228,299.44,23 de April,Radlin,województwo śląskie,PL,Polonia
+24h,50.03965,18.48294,302.03,23 de April,Radlin,województwo śląskie,PL,Polonia
+24h,48.45845,17.18827,295.52,23 de April,Rohožník,Bratislavský kraj,SK,Eslovaquia
+24h,51.49583,6.7404,334.77,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.49736,6.73437,296.46,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.49182,6.73783,342.39,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.4884,6.71459,315.24,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.48592,6.70599,344.19,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.48285,6.71806,337.76,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.48439,6.712,309.98,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.48954,6.71513,308.98,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.48555,6.71249,326.42,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.48404,6.71858,335.85,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.48705,6.70647,313.95,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.48253,6.72463,301.26,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.48304,6.70389,331.85,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.37006,6.70846,330.5,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.36699,6.72053,303.8,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.36851,6.72025,311.67,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.36751,6.70557,339.53,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,51.366,6.71161,311.8,23 de April,Duisburg,Nordrhein-Westfalen,DE,Alemania
+24h,50.84092,6.95035,313.23,23 de April,Köln,Nordrhein-Westfalen,DE,Alemania
+24h,48.27741,14.33819,331.51,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.27417,14.32678,298.82,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.28145,14.33827,314.06,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.27819,14.32679,305.13,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.27578,14.33373,308.44,23 de April,Linz,Oberösterreich,AT,Austria
+24h,48.27336,14.34072,303.17,23 de April,Linz,Oberösterreich,AT,Austria
+24h,51.18253,3.8173,295.71,23 de April,Zelzate,Oost-Vlaanderen,BE,Bélgica
+24h,51.17519,3.81314,329.4,23 de April,Zelzate,Oost-Vlaanderen,BE,Bélgica
+24h,51.17683,3.80589,299.07,23 de April,Zelzate,Oost-Vlaanderen,BE,Bélgica
+24h,51.17316,3.80381,326.62,23 de April,Gent,Oost-Vlaanderen,BE,Bélgica
+24h,51.17152,3.81107,317,23 de April,Gent,Oost-Vlaanderen,BE,Bélgica
+24h,51.16786,3.80899,333.89,23 de April,Gent,Oost-Vlaanderen,BE,Bélgica
+24h,51.16621,3.81627,321.73,23 de April,Gent,Oost-Vlaanderen,BE,Bélgica
+24h,51.16949,3.80173,300.24,23 de April,Gent,Oost-Vlaanderen,BE,Bélgica
+24h,51.04505,2.30014,326.65,23 de April,Dunkerque,Hauts-de-France,FR,Francia
+24h,51.04643,2.2936,311.24,23 de April,Grande-Synthe,Hauts-de-France,FR,Francia
+24h,51.04292,2.29173,295.66,23 de April,Grande-Synthe,Hauts-de-France,FR,Francia
+24h,51.03728,2.28148,324.04,23 de April,Dunkerque,Hauts-de-France,FR,Francia
+24h,51.03589,2.28802,305.43,23 de April,Dunkerque,Hauts-de-France,FR,Francia
+24h,50.70018,2.11175,298.43,23 de April,Saint-Omer,Hauts-de-France,FR,Francia
+24h,50.33947,3.49199,295.15,23 de April,Valenciennes,Hauts-de-France,FR,Francia
+24h,49.24559,6.8533,322.38,23 de April,Völklingen,Saarland,DE,Alemania
+24h,49.24734,6.8466,298.54,23 de April,Völklingen,Saarland,DE,Alemania
+24h,48.98122,1.76359,295.17,23 de April,Mantes-la-Jolie,Île-de-France,FR,Francia
+24h,48.38853,2.98065,301.57,23 de April,Montereau-Fault-Yonne,Île-de-France,FR,Francia
+24h,41.92421,0.17803,336.63,23 de April,Monzón,Huesca,ES,España
+24h,41.3125,1.65971,297.46,23 de April,Santa Margarida i els Monjos,Barcelona,ES,España
+24h,39.95219,-0.00284,299.29,23 de April,Castelló de la Plana,Comunitat Valenciana,ES,España
+24h,40.00902,-3.90015,295.86,23 de April,Villaluenga de la Sagra,Toledo,ES,España
+24h,38.37637,-0.54378,307.97,23 de April,Alacant / Alicante,Alacant / Alicante,ES,España
+24h,39.6857,-8.90663,301.64,23 de April,Maceira,Leiria,PT,Portugal
+24h,38.92178,-9.00974,300.03,23 de April,Alhandra,Lisboa,PT,Portugal
+24h,38.50214,-8.93436,306.61,23 de April,Setúbal,Setúbal,PT,Portugal
+24h,36.96854,-1.90556,309.36,23 de April,Carboneras,Almería,ES,España
+24h,37.3605,-5.86559,299.62,23 de April,Alcalá de Guadaíra,Sevilla,ES,España
+24h,36.71497,-4.33289,299.49,23 de April,Málaga,Málaga,ES,España
+24h,65.77177,24.19308,322.12,23 de April,Tornio,Lapin aluehallintovirasto,FI,Finlandia
+24h,65.76826,24.1865,321.51,23 de April,Tornio,Lapin aluehallintovirasto,FI,Finlandia
+24h,65.56477,22.22368,344.73,23 de April,Luleå,Norrbottens län,SE,Suecia
+24h,64.65866,24.43746,296.91,23 de April,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+24h,64.6446,24.42624,301.79,23 de April,Raahe,Pohjois-Suomen aluehallintovirasto,FI,Finlandia
+24h,64.66575,21.2881,309.45,23 de April,Skellefteå kommun,Västerbottens län,SE,Suecia
+24h,64.66219,21.28229,313.59,23 de April,Skellefteå kommun,Västerbottens län,SE,Suecia
+24h,66.31485,14.16371,331.93,23 de April,Mo i Rana,Nordland,NO,Noruega
+24h,66.31109,14.18093,307.22,23 de April,Mo i Rana,Nordland,NO,Noruega
+24h,66.06829,-17.34259,295.76,23 de April,NA,Norðurland eystra,IS,Islandia
+24h,65.56431,22.22476,346.21,23 de April,Luleå,Norrbottens län,SE,Suecia
+24h,40.48262,34.17739,332.65,23 de April,Sungurlu,Çorum,TR,Turquía
+24h,40.5453,34.39246,335.46,23 de April,NA,Çorum,TR,Turquía
+24h,42.69592,21.02733,341.59,23 de April,Komuna e Obiliqit / Opština Obilić,NA,XK,Kosovo
+24h,42.69771,21.02625,339.37,23 de April,Komuna e Obiliqit / Opština Obilić,NA,XK,Kosovo
+24h,45.37221,30.92811,325.61,23 de April,NA,NA,NA,Mundo
+24h,45.49627,27.38391,334.25,23 de April,Măicănești,Vrancea,RO,Rumanía
+24h,46.09476,25.01091,344.62,23 de April,Meșendorf,Brașov,RO,Rumanía
+24h,46.09446,25.01106,350.74,23 de April,Meșendorf,Brașov,RO,Rumanía
+24h,46.68266,24.57955,341.56,23 de April,Zona Metropolitană Târgu Mureș,Mureș,RO,Rumanía
+24h,46.68207,24.58005,336.68,23 de April,Zona Metropolitană Târgu Mureș,Mureș,RO,Rumanía
+24h,46.68647,24.57773,339.73,23 de April,Zona Metropolitană Târgu Mureș,Mureș,RO,Rumanía
+24h,47.64864,20.83717,337.76,23 de April,NA,Észak-Alföld,HU,Hungría
+24h,47.65356,20.83404,367,23 de April,NA,Észak-Alföld,HU,Hungría
+24h,47.54657,19.10366,330.65,23 de April,Budapest,Közép-Magyarország,HU,Hungría
+24h,48.6052,21.18284,335.61,23 de April,Košice,Košický kraj,SK,Eslovaquia
+24h,49.06763,18.93125,355.67,23 de April,Martin,Žilinský kraj,SK,Eslovaquia
+24h,50.57193,21.91554,328.65,23 de April,gmina Grębów,województwo podkarpackie,PL,Polonia
+24h,50.57569,21.91422,329.94,23 de April,gmina Grębów,województwo podkarpackie,PL,Polonia
+24h,49.77768,18.44472,326,23 de April,Havířov,Moravskoslezsko,CZ,Rep. Checa
+24h,49.79134,18.40952,330.38,23 de April,Havířov,Moravskoslezsko,CZ,Rep. Checa
+24h,50.03866,18.48896,326.77,23 de April,Radlin,województwo śląskie,PL,Polonia
+24h,55.25024,23.87128,342.22,23 de April,Šingaliai,Kėdainių rajono savivaldybė,LT,Lituania
+24h,52.15466,10.40659,328.18,23 de April,Salzgitter,Niedersachsen,DE,Alemania
+24h,57.12888,24.45995,343.34,23 de April,Ādažu pagasts,Vidzeme,LV,Letonia
+24h,57.12742,24.45285,333.77,23 de April,Ādažu pagasts,Vidzeme,LV,Letonia
+24h,57.13225,24.45759,342.77,23 de April,Ādažu pagasts,Vidzeme,LV,Letonia
+24h,53.13322,8.68045,329.42,23 de April,Bremen,Bremen,DE,Alemania
+24h,36.03899,14.27474,330.41,23 de April,Ix-Xewkija,Għawdex,MT,Malta
+24h,36.74637,15.02577,334.68,23 de April,Noto,Sicilia,IT,Italia
+24h,36.74972,15.02506,335.06,23 de April,Noto,Sicilia,IT,Italia
+24h,36.83361,14.98424,336.39,23 de April,Noto,Sicilia,IT,Italia
+24h,36.83501,14.98103,335.41,23 de April,Noto,Sicilia,IT,Italia
+24h,38.02324,15.21151,336.44,23 de April,Rodì Milici,Sicilia,IT,Italia
+24h,38.02665,15.211,337.09,23 de April,Rodì Milici,Sicilia,IT,Italia
+24h,40.50075,17.21656,337.33,23 de April,Taranto,Puglia,IT,Italia
+24h,40.49946,17.20466,325.67,23 de April,Taranto,Puglia,IT,Italia
+24h,40.51344,16.88543,339.47,23 de April,Castellaneta,Puglia,IT,Italia
+24h,41.63691,13.27011,327.22,23 de April,Ferentino,Lazio,IT,Italia
+24h,44.04267,25.64219,336.38,23 de April,Toporu,Giurgiu,RO,Rumanía
+24h,43.54003,13.27913,335.81,23 de April,Jesi,Marche,IT,Italia
+24h,43.6846,10.47364,328.13,23 de April,Cascina,Toscana,IT,Italia
+24h,43.85484,11.15295,329.81,23 de April,Calenzano,Toscana,IT,Italia
+24h,45.02549,22.4058,325.53,23 de April,Bogâltin,Caraș-Severin,RO,Rumanía
+24h,43.92271,10.90364,329.5,23 de April,Pistoia,Toscana,IT,Italia
+24h,44.55232,15.42106,334.15,23 de April,Grad Gospić,Ličko-senjska županija,HR,Croacia
+24h,44.33438,11.20993,327.25,23 de April,Unione dell'Appennino Bolognese,Emilia-Romagna,IT,Italia
+24h,44.52212,11.53516,345.58,23 de April,Budrio,Emilia-Romagna,IT,Italia
+24h,44.48512,11.26046,333,23 de April,Casalecchio di Reno,Emilia-Romagna,IT,Italia
+24h,44.52818,11.41311,342.28,23 de April,Granarolo dell'Emilia,Emilia-Romagna,IT,Italia
+24h,44.55999,11.3739,335.79,23 de April,Castel Maggiore,Emilia-Romagna,IT,Italia
+24h,44.544670000000004,10.86111,333.48,23 de April,Fiorano Modenese,Emilia-Romagna,IT,Italia
+24h,44.67825,11.02274,342.05,23 de April,Nonantola,Emilia-Romagna,IT,Italia
+24h,44.64556,10.67229,335.74,23 de April,Reggio Emilia,Emilia-Romagna,IT,Italia
+24h,44.71624,11.11679,336.09,23 de April,Unione dei comuni del Sorbara,Emilia-Romagna,IT,Italia
+24h,44.712,10.61468,326.91,23 de April,Reggio Emilia,Emilia-Romagna,IT,Italia
+24h,44.70905,10.59554,345.96,23 de April,Reggio Emilia,Emilia-Romagna,IT,Italia
+24h,44.71379,10.60412,335.9,23 de April,Reggio Emilia,Emilia-Romagna,IT,Italia
+24h,44.71232,10.59455,339.71,23 de April,Reggio Emilia,Emilia-Romagna,IT,Italia
+24h,44.72095,10.56188,328.97,23 de April,Reggio Emilia,Emilia-Romagna,IT,Italia
+24h,44.78485,10.37899,349.21,23 de April,Parma,Emilia-Romagna,IT,Italia
+24h,44.78812,10.37799,345.62,23 de April,Parma,Emilia-Romagna,IT,Italia
+24h,44.76991,10.21788,334.94,23 de April,Collecchio,Emilia-Romagna,IT,Italia
+24h,44.85195,10.28297,339,23 de April,Parma,Emilia-Romagna,IT,Italia
+24h,44.62383,8.62339,325.8,23 de April,Ovada,Piemonte,IT,Italia
+24h,44.97305,9.92206,347.57,23 de April,Cortemaggiore,Emilia-Romagna,IT,Italia
+24h,45.39683,11.93469,341.1,23 de April,Padova,Veneto,IT,Italia
+24h,45.14409,9.94273,336.33,23 de April,Spinadesco,Lombardia,IT,Italia
+24h,45.06789,9.44833,338.05,23 de April,Castel San Giovanni,Emilia-Romagna,IT,Italia
+24h,45.07275,9.45696,349.25,23 de April,Sarmato,Emilia-Romagna,IT,Italia
+24h,45.41314,10.96172,342.09,23 de April,Verona,Veneto,IT,Italia
+24h,45.51849,11.49778,331.68,23 de April,Vicenza,Veneto,IT,Italia
+24h,46.82838,24.00388,335.99,23 de April,Petea,Cluj,RO,Rumanía
+24h,48.60491,21.1788,340.48,23 de April,Košice,Košický kraj,SK,Eslovaquia
+24h,49.24318,6.84956,328.32,23 de April,Völklingen,Saarland,DE,Alemania
+24h,50.7852,19.68241,339.8,23 de April,Koniecpol,województwo śląskie,PL,Polonia
+24h,50.78995,19.68182,329.37,23 de April,Koniecpol,województwo śląskie,PL,Polonia
+24h,50.78556,19.68136,340.06,23 de April,Koniecpol,województwo śląskie,PL,Polonia
+24h,50.79032,19.68075,325.51,23 de April,Koniecpol,województwo śląskie,PL,Polonia
+24h,50.92987,21.67686,329.59,23 de April,gmina Ożarów,województwo świętokrzyskie,PL,Polonia
+24h,51.01355,19.45983,331.29,23 de April,gmina Gidle,województwo łódzkie,PL,Polonia
+24h,50.83878,6.95241,332.5,23 de April,Köln,Nordrhein-Westfalen,DE,Alemania
+24h,50.8571,6.97942,328.32,23 de April,Köln,Nordrhein-Westfalen,DE,Alemania
+24h,53.1347,8.69341,331.67,23 de April,Bremen,Bremen,DE,Alemania
+24h,53.13308,8.68185,341.09,23 de April,Bremen,Bremen,DE,Alemania
+24h,53.13966,8.67931,335.8,23 de April,Bremen,Bremen,DE,Alemania
+24h,53.43721,10.19599,330.46,23 de April,Hamburg,NA,DE,Alemania
+24h,53.51981,9.90722,334.85,23 de April,Hamburg,NA,DE,Alemania
+24h,53.52318,9.90601,333.72,23 de April,Hamburg,NA,DE,Alemania
+24h,36.73085,-3.54864,340.34,23 de April,Motril,Granada,ES,España
+24h,36.73037,-3.55447,344.65,23 de April,Motril,Granada,ES,España
+24h,36.73494,-3.55505,342.43,23 de April,Motril,Granada,ES,España
+24h,51.56771,-3.77916,334.06,23 de April,NA,Cymru / Wales,GB,Reino Unido
+24h,45.20564,19.70971,298.1,23 de April,Municipio de beocina,Vojvodina,RS,Serbia
+24h,44.82989,20.69875,306.48,23 de April,Ciudad de Pancevo,Vojvodina,RS,Serbia
+24h,44.60014,20.97719,327.35,23 de April,Ciudad de Smederevo,Serbia central,RS,Serbia
+24h,43.23453,27.59304,296.65,23 de April,Virgen,Varna,BG,Bulgaria
+24h,44.59686,20.97607,310.97,23 de April,Ciudad de Smederevo,Serbia central,RS,Serbia
+24h,44.52715,18.52696,303.08,23 de April,Lukavac,Tuzla Cantón,BA,Bosnia y Herzegovina
+24h,43.90796,21.51166,301.84,23 de April,Municipio de paracina,Serbia central,RS,Serbia
+24h,44.03825,20.14076,309.69,23 de April,Municipio de Gornji Milanovac,Serbia central,RS,Serbia
+24h,44.01152,19.88729,302.64,23 de April,Municipio de Kosjerić,Serbia central,RS,Serbia
+24h,44.22153,17.89859,296.5,23 de April,Zenica,Zenica-Doboj Cantón,BA,Bosnia y Herzegovina
+24h,44.21493,17.89676,326.32,23 de April,Zenica,Zenica-Doboj Cantón,BA,Bosnia y Herzegovina
+24h,42.71578,24.17365,326.8,23 de April,Depósito,Sofía,BG,Bulgaria
+24h,42.59116,23.10486,320.25,23 de April,Pernik,Pernik,BG,Bulgaria
+24h,36.67965,9.92071,295.92,23 de April,Ritual,Delegación de Al -Mortaga,TN,Túnez
+24h,36.58985,10.31668,295.86,23 de April,NA,Delegación de marané,TN,Túnez
+24h,36.50047,10.02852,295.23,23 de April,Estación Bir Masharqa,La delegación de Bir Masharqa,TN,Túnez
+24h,36.65645,2.97987,300.4,23 de April,Dura ⴷⵡⵉⵔⴰ duira,Alger Argelia,DZ,Argelia
+24h,36.63338,3.22969,303.02,23 de April,Meftah ⵎⴻⴼⵜⴰⵃ clave,Blida Blida,DZ,Argelia
+24h,35.77599,9.89095,298.7,23 de April,NA,Delegación de Shabika,TN,Túnez
+24h,36.13267,1.23877,298.86,23 de April,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
+24h,36.12601,1.23854,299.88,23 de April,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
+24h,36.12857,1.23796,307.32,23 de April,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
+24h,35.82623,-0.3335,302.74,23 de April,Arzew ⴰⵔⴻⵣⵢⵓ Arzio,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.81828,-0.27576,307.29,23 de April,Aïn El Bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ Ein Al -Bayya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.82349,-0.33026,296.08,23 de April,Arzew ⴰⵔⴻⵣⵢⵓ Arzio,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.81524,-0.27245,312.15,23 de April,Aïn El Bia ⵄⵉⵏ ⵍⴱⵉⵢⴰ Ein Al -Bayya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80794,-0.26373,296.67,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80762,-0.24737,297.54,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80746,-0.23872,295.05,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.23024,8.17244,295.59,23 de April,El ma labiodh ⵍⵎⴰ ⵍⴻⴱⵢⴻⴹ agua blanca,Tebessa ⵴ రర రర ipe swee 2017,DZ,Argelia
+24h,66.90774,31.63067,296.56,23 de April,asentamiento rural Zarechensk,Región murmansk,RU,Rusia
+24h,59.53105,34.15011,312.33,23 de April,Picallavo,Región de Leningrado,RU,Rusia
+24h,59.52763,34.14717,311.96,23 de April,Picallavo,Región de Leningrado,RU,Rusia
+24h,59.52408,34.16296,302.66,23 de April,Asentamiento de la ciudad de Pailarovskoy,Región de Leningrado,RU,Rusia
+24h,59.38683,28.46333,322.8,23 de April,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,59.38364,28.46119,304.43,23 de April,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,59.1134,28.19346,296.98,23 de April,Pizarra,Región de Leningrado,RU,Rusia
+24h,59.06358,28.13923,297.53,23 de April,Asentamiento rural de la oficina,Región de Leningrado,RU,Rusia
+24h,55.09462,21.80261,297.67,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,55.05073,21.73125,325.44,23 de April,Suplante,Región de Kaliningrado,RU,Rusia
+24h,55.04743,21.72986,297.74,23 de April,Suplante,Región de Kaliningrado,RU,Rusia
+24h,50.54561,26.26415,297.9,23 de April,Zdolbunov,Región de Rivne,UA,Ucrania
+24h,50.54219,26.26249,310.17,23 de April,Zdolbunov,Región de Rivne,UA,Ucrania
+24h,47.87606,33.42162,299.28,23 de April,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,47.86798,33.43074,296.03,23 de April,Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,47.86232,33.45077,312.68,23 de April,Novopolsk Village Community,Región de dnipropetrovsk,UA,Ucrania
+24h,48.74721,26.60782,300.96,23 de April,Humenets Comunidad rural,Región de Khmelnytsky,UA,Ucrania
+24h,48.97628,24.71077,305.27,23 de April,Comunidad rural de Yamnitsky,Región de Ivano-Frankivsk,UA,Ucrania
+24h,59.74453,30.50982,343.55,23 de April,Chuleta,San Petersburgo,RU,Rusia
+24h,59.74854,30.50138,299.07,23 de April,Chuleta,San Petersburgo,RU,Rusia
+24h,59.74799,30.5082,347.43,23 de April,Chuleta,San Petersburgo,RU,Rusia
+24h,59.74398,30.51674,296.57,23 de April,Chuleta,San Petersburgo,RU,Rusia
+24h,59.38389,28.4627,299.44,23 de April,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,55.04854,21.73008,295.96,23 de April,Suplante,Región de Kaliningrado,RU,Rusia
+24h,55.05175,21.73514,296.04,23 de April,Suplante,Región de Kaliningrado,RU,Rusia
+24h,36.7486,3.08307,299.97,23 de April,Beloizdadd ⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱⴱ a,Alger Argelia,DZ,Argelia
+24h,36.17901,3.74702,306.9,23 de April,Agrio el ghozlane,Tuburet ⵜⵓⴱⵉⵔⴻⵜ bouira,DZ,Argelia
+24h,34.98251,5.71782,299.38,23 de April,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
+24h,36.13351,1.23966,299.35,23 de April,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
+24h,36.12708,1.24443,310.2,23 de April,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
+24h,36.12577,1.24401,311.1,23 de April,OUED Sly ⵡⴰⴷ ⵙⵍⵉ Wadi Sali,Chlef ⵛⵛⵍⴻⴼ Chlele,DZ,Argelia
+24h,35.81607,-0.26688,323.46,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80801,-0.2329,300.26,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80396,-0.21584,299.15,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80897,-0.25735,299.34,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80758,-0.2515,296.56,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80626,-0.24593,298.77,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.81649,-0.26792,318.19,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80863,-0.2338,305.88,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80814,-0.25262,305.95,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.80549,-0.24118,302.88,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,35.53242,-0.27317,296.64,23 de April,Oggaz ⵄⵓⴳⴳⴰⵔ aqaz,Máscara ⵎⵄⴻⵙⴽⴻⵔ campamento,DZ,Argelia
+24h,35.31165,-1.34529,305.21,23 de April,Beni SAF ⴱⴻⵏⵉ Bani SAF,Aïn TÉMoUccent ⵄⵉⵏ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ ⵜⵉⵎⵓⵛⴻⵏⵜ,DZ,Argelia
+24h,34.59858,-2.34651,299.15,23 de April,Apóstoles de rislano,Provincia de Berkane Berkane Región,MA,Marruecos
+24h,34.79079,-5.30069,297.06,23 de April,Caïdat de Kalaat Booqorra Castle Bougoura,Provincia de la región de Ouezzane y Wazzan,MA,Marruecos
+24h,52.23846,34.21177,338.77,23 de April,Aleshkovichsky asentamiento rural,Región de Bryansk,RU,Rusia
+24h,54.38845,33.61856,354.12,23 de April,Village de asentamiento rural Nesteri,Región de Kaluga,RU,Rusia
+24h,54.38951,33.62287,354.49,23 de April,Village de asentamiento rural Nesteri,Región de Kaluga,RU,Rusia
+24h,54.38634,33.61496,339.5,23 de April,Village de asentamiento rural Nesteri,Región de Kaluga,RU,Rusia
+24h,54.40187,33.57319,350.23,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.38865,32.93854,334.15,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.48679,33.18694,335.32,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.39371,32.93868,334.01,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.3903,32.93037,335.81,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.68534,33.49984,367,23 de April,Asentamiento rural de Aleksinsky,Región de smolensk,RU,Rusia
+24h,54.52514,33.07962,329.81,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.686,33.50181,337.64,23 de April,Asentamiento rural de Aleksinsky,Región de smolensk,RU,Rusia
+24h,54.68282,33.49391,347.63,23 de April,Asentamiento rural de Aleksinsky,Región de smolensk,RU,Rusia
+24h,54.49216,32.34007,331.37,23 de April,Asentamiento rural de Muryginsky,Región de smolensk,RU,Rusia
+24h,54.62369,32.51484,331.58,23 de April,Asentamiento rural de Dobrominskoye,Región de smolensk,RU,Rusia
+24h,56.36014,30.41319,325.37,23 de April,Peresleginsky Volost,Región de pskov,RU,Rusia
+24h,57.67654,29.90922,331.21,23 de April,Iskrovsky Volost,Región de pskov,RU,Rusia
+24h,58.14983,31.01152,355.91,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.147,31.0044,352.29,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.14415,30.99725,327.73,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,57.67882,29.90921,326.41,23 de April,Iskrovsky Volost,Región de pskov,RU,Rusia
+24h,58.14805,31.00518,355.56,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.14518,30.99807,342.9,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,57.86276,29.9171,327.4,23 de April,fondo urbano,Región de pskov,RU,Rusia
+24h,57.85839,29.91726,330.25,23 de April,fondo urbano,Región de pskov,RU,Rusia
+24h,58.10946,30.38693,333.24,23 de April,NA,Región de novgorod,RU,Rusia
+24h,57.44347,28.30133,331.06,23 de April,Ostrovskaya Volost,Región de pskov,RU,Rusia
+24h,57.44136,28.3063,335,23 de April,Ostrovskaya Volost,Región de pskov,RU,Rusia
+24h,59.78178,33.37172,367,23 de April,Asentamiento rural de Gorskoye,Región de Leningrado,RU,Rusia
+24h,59.77978,33.36608,331.44,23 de April,Asentamiento rural de Gorskoye,Región de Leningrado,RU,Rusia
+24h,57.84864,28.21862,331.67,23 de April,Volost negro,Región de pskov,RU,Rusia
+24h,59.32233,31.20145,367,23 de April,Asentamiento de la ciudad de Lyuban,Región de Leningrado,RU,Rusia
+24h,59.91309,32.0777,325.07,23 de April,Asentamiento rural de Kiselninsky,Región de Leningrado,RU,Rusia
+24h,58.60315,28.09761,327.48,23 de April,Volnovskaya Volost,Región de pskov,RU,Rusia
+24h,59.5003,29.87569,330.07,23 de April,Asentamiento rural isabelino,Región de Leningrado,RU,Rusia
+24h,59.38313,28.28939,335.9,23 de April,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,42.10366,25.65656,330.16,23 de April,Dimitrovgrad,Haskovo,BG,Bulgaria
+24h,46.98669,29.13693,338.93,23 de April,NA,NA,MD,Moldavia
+24h,47.86566,33.4357,329.82,23 de April,Comunidad de la ciudad de Kryvyi Rih,Región de dnipropetrovsk,UA,Ucrania
+24h,49.04126,33.15924,329.38,23 de April,Svetlovodsk,Región de Kirovohrad,UA,Ucrania
+24h,47.97364,27.20759,326.45,23 de April,NUEVO CUCONEșTII,NA,MD,Moldavia
+24h,50.54687,33.63225,330.48,23 de April,Comunidad de asentamiento de Lipovodolinsk,Región sumy,UA,Ucrania
+24h,49.23488,25.02345,329.54,23 de April,Comunidad de Podgayets City,Región de ternopil,UA,Ucrania
+24h,49.29739,23.53468,327.7,23 de April,Bife,Región de LVIV,UA,Ucrania
+24h,51.23938,32.74164,334.21,23 de April,Comunidad de la ciudad de Bakhmat,Región de Chernihiv,UA,Ucrania
+24h,49.5509,23.60932,340.59,23 de April,Comunidad de la ciudad de Rudkovsk,Región de LVIV,UA,Ucrania
+24h,49.55509,23.60681,341.99,23 de April,Comunidad de la ciudad de Rudkovsk,Región de LVIV,UA,Ucrania
+24h,51.79405,34.87847,330.16,23 de April,Consejo de la aldea de Petrovsky,Región de Kursk,RU,Rusia
+24h,51.80949,34.67616,346.13,23 de April,Consejo de la aldea de Petrovsky,Región de Kursk,RU,Rusia
+24h,51.83362,34.62601,335.59,23 de April,Consejo de la aldea de Olkhovsky,Región de Kursk,RU,Rusia
+24h,51.58803,32.70305,340.48,23 de April,Comunidad de asentamiento de Sosnitsky,Región de Chernihiv,UA,Ucrania
+24h,52.00262,34.90717,342.53,23 de April,Consejo de la aldea de StarodorOdsky,Región de Kursk,RU,Rusia
+24h,50.6357,25.5276,332.28,23 de April,Comunidad rural de Yaroslavl,Región de Rivne,UA,Ucrania
+24h,52.6314,33.97874,331.87,23 de April,Asentamiento rural de Yurovsky,Región de Bryansk,RU,Rusia
+24h,52.63267,30.57919,331.41,23 de April,Consejo de la aldea de Gusavichy,Región de Gomel,BY,Bielorrusia
+24h,52.63494,30.57199,327.67,23 de April,Consejo de la aldea de Gusavichy,Región de Gomel,BY,Bielorrusia
+24h,53.00871,32.0338,343.26,23 de April,Glinnovskoye asentamiento rural,Región de Bryansk,RU,Rusia
+24h,53.01283,32.038,328.36,23 de April,Glinnovskoye asentamiento rural,Región de Bryansk,RU,Rusia
+24h,53.01195,32.03239,332.74,23 de April,Glinnovskoye asentamiento rural,Región de Bryansk,RU,Rusia
+24h,53.01607,32.03659,332.1,23 de April,Glinnovskoye asentamiento rural,Región de Bryansk,RU,Rusia
+24h,53.13535,31.74631,332.53,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.13445,31.74068,340.12,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.14219,31.76739,337.38,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.13768,31.73925,339.01,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.12682,31.67172,331.64,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.12501,31.66046,328.67,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.14633,31.77159,328.57,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.14542,31.76596,335.89,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.14182,31.74344,344.72,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.14091,31.73781,341.45,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.17803,31.66702,327.5,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.18127,31.66558,345.94,23 de April,Asentamiento rural de Makarich,Región de Bryansk,RU,Rusia
+24h,53.73103,34.74385,330.31,23 de April,Gizdra,Región de Kaluga,RU,Rusia
+24h,53.88269,34.66399,336,23 de April,Village de asentamiento rural Zabolotier,Región de Kaluga,RU,Rusia
+24h,53.9154,34.88848,330.13,23 de April,Villakoye de la aldea de asentamiento rural,Región de Kaluga,RU,Rusia
+24h,53.91875,34.88723,339.46,23 de April,Villakoye de la aldea de asentamiento rural,Región de Kaluga,RU,Rusia
+24h,53.29465,30.59449,339.18,23 de April,Consejo de la aldea de Zhuravichy,Región de Gomel,BY,Bielorrusia
+24h,53.72433,33.09643,340.04,23 de April,Asentamiento rural de Podoryevskoye,Región de smolensk,RU,Rusia
+24h,53.97116,34.80351,336.16,23 de April,Asentamiento rural del pueblo de Novoslobodsk,Región de Kaluga,RU,Rusia
+24h,53.97036,34.79737,330.5,23 de April,Asentamiento rural del pueblo de Novoslobodsk,Región de Kaluga,RU,Rusia
+24h,53.96466,34.35235,336.49,23 de April,Village de asentamiento rural Manino,Región de Kaluga,RU,Rusia
+24h,53.96305,34.34027,351.21,23 de April,Village de asentamiento rural Manino,Región de Kaluga,RU,Rusia
+24h,53.85353,33.39792,333.15,23 de April,Asentamiento de la ciudad de Rognedine,Región de Bryansk,RU,Rusia
+24h,53.83979,33.18208,339.92,23 de April,Asentamiento rural de Podoryevskoye,Región de smolensk,RU,Rusia
+24h,53.82018,33.00007,325.13,23 de April,Asentamiento rural de Lipovsky,Región de smolensk,RU,Rusia
+24h,53.83779,33.09697,339.05,23 de April,Asentamiento rural de Podoryevskoye,Región de smolensk,RU,Rusia
+24h,53.82258,32.99294,343.91,23 de April,Asentamiento rural de Lipovsky,Región de smolensk,RU,Rusia
+24h,54.09495,34.80761,330.72,23 de April,Villa de asentamiento rural de Fominichi,Región de Kaluga,RU,Rusia
+24h,54.09415,34.80147,347.74,23 de April,Villa de asentamiento rural de Fominichi,Región de Kaluga,RU,Rusia
+24h,54.06364,34.19833,339.78,23 de April,Village de asentamiento rural Big Savka,Región de Kaluga,RU,Rusia
+24h,54.06696,34.19704,338.76,23 de April,Village de asentamiento rural Big Savka,Región de Kaluga,RU,Rusia
+24h,54.06615,34.19102,335.46,23 de April,Village de asentamiento rural Big Savka,Región de Kaluga,RU,Rusia
+24h,54.23122,34.45088,346.78,23 de April,Village de asentamiento rural Silkovichi,Región de Kaluga,RU,Rusia
+24h,54.23455,34.44958,344.66,23 de April,Village de asentamiento rural Silkovichi,Región de Kaluga,RU,Rusia
+24h,54.28363,34.31359,328.36,23 de April,Village de asentamiento rural Bakhmutovo,Región de Kaluga,RU,Rusia
+24h,54.35835,33.84888,338.31,23 de April,asentamiento rural del pueblo de Lyubun,Región de Kaluga,RU,Rusia
+24h,54.35752,33.84289,351.83,23 de April,asentamiento rural del pueblo de Lyubun,Región de Kaluga,RU,Rusia
+24h,54.36083,33.84157,345.41,23 de April,asentamiento rural del pueblo de Lyubun,Región de Kaluga,RU,Rusia
+24h,54.18915,32.59,334.01,23 de April,Estodolishchensk asentamiento rural,Región de smolensk,RU,Rusia
+24h,54.19326,32.5944,326.57,23 de April,Estodolishchensk asentamiento rural,Región de smolensk,RU,Rusia
+24h,54.1924,32.5886,343.77,23 de April,Estodolishchensk asentamiento rural,Región de smolensk,RU,Rusia
+24h,54.3983,33.57185,343.57,23 de April,Asentamiento rural de Korobetskoye,Región de smolensk,RU,Rusia
+24h,54.58501,34.95721,329.55,23 de April,asentamiento rural Ramensky,Región de Kaluga,RU,Rusia
+24h,54.40158,33.57051,341.08,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.19824,31.90003,336.93,23 de April,Asentamiento rural de gogolovskoye,Región de smolensk,RU,Rusia
+24h,54.20147,31.89858,349.34,23 de April,Asentamiento rural de gogolovskoye,Región de smolensk,RU,Rusia
+24h,54.20025,31.86829,334.77,23 de April,Asentamiento rural de gogolovskoye,Región de smolensk,RU,Rusia
+24h,54.43738,33.26523,328.97,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.48549,33.18866,335.05,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.4896,33.19322,336.8,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.74054,34.90463,334.37,23 de April,Village de asentamiento rural Lyudkovo,Región de Kaluga,RU,Rusia
+24h,54.63079,33.90916,329.63,23 de April,Asentamiento rural del este,Región de smolensk,RU,Rusia
+24h,54.52463,33.08259,336.74,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.52379,33.07667,342.37,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.5279,33.08121,346.58,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.52706,33.07529,332.05,23 de April,Asentamiento rural de Leonidovsky,Región de smolensk,RU,Rusia
+24h,54.62335,33.46417,333.29,23 de April,Asentamiento rural de Korobetskoye,Región de smolensk,RU,Rusia
+24h,54.68103,33.50393,351.69,23 de April,Asentamiento rural de Aleksinsky,Región de smolensk,RU,Rusia
+24h,54.68019,33.4979,351.05,23 de April,Asentamiento rural de Aleksinsky,Región de smolensk,RU,Rusia
+24h,54.68432,33.50257,341.46,23 de April,Asentamiento rural de Aleksinsky,Región de smolensk,RU,Rusia
+24h,54.68348,33.49654,339.68,23 de April,Asentamiento rural de Aleksinsky,Región de smolensk,RU,Rusia
+24h,54.68677,33.49518,339.93,23 de April,Asentamiento rural de Aleksinsky,Región de smolensk,RU,Rusia
+24h,54.68837,33.49335,338.87,23 de April,Asentamiento rural de Aleksinsky,Región de smolensk,RU,Rusia
+24h,54.61827,32.51541,340.72,23 de April,Asentamiento rural de Dobrominskoye,Región de smolensk,RU,Rusia
+24h,54.62151,32.51399,342.33,23 de April,Asentamiento rural de Dobrominskoye,Región de smolensk,RU,Rusia
+24h,54.63126,32.50974,333.08,23 de April,Asentamiento rural de Dobrominskoye,Región de smolensk,RU,Rusia
+24h,54.64101,32.50548,342.73,23 de April,Asentamiento rural de Dobrominskoye,Región de smolensk,RU,Rusia
+24h,54.66356,32.4052,348.91,23 de April,Asentamiento rural de Muryginsky,Región de smolensk,RU,Rusia
+24h,54.83567,33.09231,347.08,23 de April,Asentamiento rural de Usvyatsky,Región de smolensk,RU,Rusia
+24h,54.83482,33.08632,336.84,23 de April,Asentamiento rural de Usvyatsky,Región de smolensk,RU,Rusia
+24h,54.86234,32.56148,342.2,23 de April,Asentamiento rural de Shokinsky,Región de smolensk,RU,Rusia
+24h,54.86473,32.55414,340.75,23 de April,Asentamiento rural de Shokinsky,Región de smolensk,RU,Rusia
+24h,54.86386,32.54822,336.84,23 de April,Asentamiento rural de Shokinsky,Región de smolensk,RU,Rusia
+24h,54.86798,32.55271,346.39,23 de April,Asentamiento rural de Shokinsky,Región de smolensk,RU,Rusia
+24h,54.87371,32.47916,333.92,23 de April,Asentamiento rural de Kamenskoye,Región de smolensk,RU,Rusia
+24h,55.11073,33.4412,347.8,23 de April,Asentamiento rural de Baranovskoe,Región de smolensk,RU,Rusia
+24h,55.11955,33.44294,351.72,23 de April,Asentamiento rural de Baranovskoe,Región de smolensk,RU,Rusia
+24h,55.15324,33.38352,349.34,23 de April,Asentamiento rural de Baranovskoe,Región de smolensk,RU,Rusia
+24h,55.29538,34.1034,345.76,23 de April,Andreikovskoye asentamiento rural,Región de smolensk,RU,Rusia
+24h,55.35979,34.32954,347.54,23 de April,Asentamiento rural Novoselskoye,Región de smolensk,RU,Rusia
+24h,55.36234,34.32185,330.07,23 de April,Asentamiento rural Novoselskoye,Región de smolensk,RU,Rusia
+24h,55.52339,34.6492,341.83,23 de April,Asentamiento rural de Nikolskoye,Región de smolensk,RU,Rusia
+24h,55.74459,34.56141,335.88,23 de April,Asentamiento rural de duginskoye,Región de smolensk,RU,Rusia
+24h,55.3865,27.17316,330.2,23 de April,Consejo de la aldea de Yodsky,Región de Vitebsk,BY,Bielorrusia
+24h,56.10041,30.98026,325.91,23 de April,Kuninsky Volost,Región de pskov,RU,Rusia
+24h,55.99687,30.10405,351.11,23 de April,Artyomovskaya Volost,Región de pskov,RU,Rusia
+24h,55.9959,30.09804,338.84,23 de April,Artyomovskaya Volost,Región de pskov,RU,Rusia
+24h,56.00009,30.10239,333.37,23 de April,Artyomovskaya Volost,Región de pskov,RU,Rusia
+24h,54.36598,21.98845,332.4,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,56.18388,30.82699,330.27,23 de April,Lychevsky Volost,Región de pskov,RU,Rusia
+24h,56.18294,30.82095,337.52,23 de April,Lychevsky Volost,Región de pskov,RU,Rusia
+24h,54.46641,21.90744,338.23,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.59283,22.24401,325.14,23 de April,Pervomeo,Región de Kaliningrado,RU,Rusia
+24h,56.29823,30.82765,345.57,23 de April,Kuninsky Volost,Región de pskov,RU,Rusia
+24h,56.21746,30.26822,341.01,23 de April,Volost suburbano,Región de pskov,RU,Rusia
+24h,56.22068,30.26657,330.59,23 de April,Volost suburbano,Región de pskov,RU,Rusia
+24h,54.77706,22.84688,332.64,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.74015,22.59886,332.86,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.5744,21.85609,326.3,23 de April,Chernyakhovsk,Región de Kaliningrado,RU,Rusia
+24h,54.82899,22.81037,330.81,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,56.33408,30.37025,346.25,23 de April,Peresleginsky Volost,Región de pskov,RU,Rusia
+24h,56.33825,30.37466,331.3,23 de April,Peresleginsky Volost,Región de pskov,RU,Rusia
+24h,56.33729,30.3686,353.39,23 de April,Peresleginsky Volost,Región de pskov,RU,Rusia
+24h,54.61714,21.81637,327.33,23 de April,Chernyakhovsk,Región de Kaliningrado,RU,Rusia
+24h,56.44215,30.77365,325.84,23 de April,Silkovsky Volost,Región de pskov,RU,Rusia
+24h,56.35469,30.08447,338.7,23 de April,Volost suburbano,Región de pskov,RU,Rusia
+24h,56.35372,30.07841,332.11,23 de April,Volost suburbano,Región de pskov,RU,Rusia
+24h,56.35694,30.07673,325.8,23 de April,Volost suburbano,Región de pskov,RU,Rusia
+24h,56.45557,30.63584,344.54,23 de April,Silkovsky Volost,Región de pskov,RU,Rusia
+24h,56.45462,30.62975,345.72,23 de April,Silkovsky Volost,Región de pskov,RU,Rusia
+24h,54.9297,22.71141,335.49,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.58743,21.29096,336.42,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.9308,22.70328,333.47,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.588,21.2906,334.42,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,56.44333,30.35916,344.85,23 de April,Peresleginsky Volost,Región de pskov,RU,Rusia
+24h,56.44237,30.35309,342.87,23 de April,Peresleginsky Volost,Región de pskov,RU,Rusia
+24h,56.44141,30.34702,325.49,23 de April,Peresleginsky Volost,Región de pskov,RU,Rusia
+24h,56.44559,30.35143,354.34,23 de April,Peresleginsky Volost,Región de pskov,RU,Rusia
+24h,56.44463,30.34537,325.35,23 de April,Peresleginsky Volost,Región de pskov,RU,Rusia
+24h,54.63088,21.22155,331.96,23 de April,Lunino,Región de Kaliningrado,RU,Rusia
+24h,54.99963,22.28789,331.87,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,55.00337,22.28513,340.59,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.99245,22.23955,333.94,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.75862,21.17482,328.61,23 de April,Un abundante,Región de Kaliningrado,RU,Rusia
+24h,54.60035,20.53306,326.47,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.93764,21.73847,335.55,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,56.75134,29.53022,329.18,23 de April,Asentamiento rural de Bezhanitsky,Región de pskov,RU,Rusia
+24h,56.7972,29.79161,335.78,23 de April,Asentamiento rural de Bezhanitsky,Región de pskov,RU,Rusia
+24h,56.75174,29.49,336.63,23 de April,Asentamiento rural de Bezhanitsky,Región de pskov,RU,Rusia
+24h,56.98854,30.52198,326.09,23 de April,Podberezinsky Volost,Región de pskov,RU,Rusia
+24h,56.92763,30.10798,337.68,23 de April,Asentamiento rural de Bezhanitsky,Región de pskov,RU,Rusia
+24h,56.92667,30.10184,341.1,23 de April,Asentamiento rural de Bezhanitsky,Región de pskov,RU,Rusia
+24h,56.93181,30.11243,327.15,23 de April,Asentamiento rural de Bezhanitsky,Región de pskov,RU,Rusia
+24h,56.93085,30.10629,332.56,23 de April,Asentamiento rural de Bezhanitsky,Región de pskov,RU,Rusia
+24h,57.04195,30.78106,331.53,23 de April,Krasnoborskoye asentamiento rural,Región de novgorod,RU,Rusia
+24h,57.04978,30.76789,331.84,23 de April,Krasnoborskoye asentamiento rural,Región de novgorod,RU,Rusia
+24h,57.32708,32.08027,330.84,23 de April,Cárdica,Región de novgorod,RU,Rusia
+24h,56.76752,28.16116,351.04,23 de April,Border Volost,Región de pskov,RU,Rusia
+24h,56.82153,28.34897,325.59,23 de April,Krasnogorodskaya Volost,Región de pskov,RU,Rusia
+24h,56.82582,28.35333,343.28,23 de April,Krasnogorodskaya Volost,Región de pskov,RU,Rusia
+24h,56.82475,28.34712,336.54,23 de April,Krasnogorodskaya Volost,Región de pskov,RU,Rusia
+24h,57.13057,29.83502,340.07,23 de April,Asentamiento rural de Chikhachevsky,Región de pskov,RU,Rusia
+24h,57.1536,29.93656,331.28,23 de April,Asentamiento rural de Chikhachevsky,Región de pskov,RU,Rusia
+24h,57.14051,29.72241,337.61,23 de April,Asentamiento rural de Chikhachevsky,Región de pskov,RU,Rusia
+24h,57.22898,30.15112,326.07,23 de April,Asentamiento rural de Chikhachevsky,Región de pskov,RU,Rusia
+24h,57.00981,28.32698,330.88,23 de April,Krasnogorodskaya Volost,Región de pskov,RU,Rusia
+24h,57.85968,34.15371,350.92,23 de April,Asentamiento de la ciudad BOLOGOE,Región de tver,RU,Rusia
+24h,57.29368,29.92112,326.45,23 de April,Asentamiento rural de Chikhachevsky,Región de pskov,RU,Rusia
+24h,57.26302,29.16811,325.33,23 de April,Vyborskaya Volost,Región de pskov,RU,Rusia
+24h,57.73826,31.60859,333.69,23 de April,Asentamiento rural de Zaoluskoye,Región de novgorod,RU,Rusia
+24h,57.67763,29.91229,328.96,23 de April,Iskrovsky Volost,Región de pskov,RU,Rusia
+24h,57.67665,29.90602,331.42,23 de April,Iskrovsky Volost,Región de pskov,RU,Rusia
+24h,57.67986,29.90429,345.19,23 de April,Iskrovsky Volost,Región de pskov,RU,Rusia
+24h,57.44408,28.30953,331.02,23 de April,Ostrovskaya Volost,Región de pskov,RU,Rusia
+24h,57.44301,28.30326,348.78,23 de April,Ostrovskaya Volost,Región de pskov,RU,Rusia
+24h,57.44729,28.30766,345.07,23 de April,Ostrovskaya Volost,Región de pskov,RU,Rusia
+24h,57.44622,28.30138,340.05,23 de April,Ostrovskaya Volost,Región de pskov,RU,Rusia
+24h,57.38513,27.84533,326.51,23 de April,Kachanovsky Volost,Región de pskov,RU,Rusia
+24h,57.44076,28.14565,332.27,23 de April,Novousitovsky Volost,Región de pskov,RU,Rusia
+24h,57.98956,31.30886,332.12,23 de April,Asentamiento rural de Velikoselsky,Región de novgorod,RU,Rusia
+24h,57.95245,30.95482,336.3,23 de April,NA,Región de novgorod,RU,Rusia
+24h,57.96077,30.75665,329.26,23 de April,NA,Región de novgorod,RU,Rusia
+24h,57.96494,30.76135,330.33,23 de April,Gorodsy,Región de novgorod,RU,Rusia
+24h,57.964,30.75496,334.61,23 de April,Gorodsy,Región de novgorod,RU,Rusia
+24h,57.86466,29.91092,331.37,23 de April,fondo urbano,Región de pskov,RU,Rusia
+24h,58.14682,31.01204,348.1,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.14589,31.00558,336.91,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.14496,30.99912,353.6,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.14402,30.99266,329.2,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.151,31.01684,341.23,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.15007,31.01037,338.09,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.15331,31.0087,330.36,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.15237,31.00224,332.86,23 de April,Asentamiento de la ciudad de Shimsky,Región de novgorod,RU,Rusia
+24h,58.11082,30.39268,331.2,23 de April,NA,Región de novgorod,RU,Rusia
+24h,58.11595,30.40374,326.54,23 de April,NA,Región de novgorod,RU,Rusia
+24h,58.11404,30.39097,328.27,23 de April,NA,Región de novgorod,RU,Rusia
+24h,58.11309,30.38458,330.96,23 de April,NA,Región de novgorod,RU,Rusia
+24h,58.11917,30.40202,335.54,23 de April,NA,Región de novgorod,RU,Rusia
+24h,58.11822,30.39564,339.29,23 de April,NA,Región de novgorod,RU,Rusia
+24h,58.11727,30.38925,351.98,23 de April,NA,Región de novgorod,RU,Rusia
+24h,58.58511,29.60759,329.99,23 de April,Asentamiento rural de serebryanskoye,Región de Leningrado,RU,Rusia
+24h,58.58412,29.60117,326.27,23 de April,Asentamiento rural de serebryanskoye,Región de Leningrado,RU,Rusia
+24h,58.58832,29.60579,332.86,23 de April,Asentamiento rural de serebryanskoye,Región de Leningrado,RU,Rusia
+24h,58.61755,28.10665,335.17,23 de April,Volnovskaya Volost,Región de pskov,RU,Rusia
+24h,59.32365,31.20116,325.08,23 de April,Asentamiento de la ciudad de Lyuban,Región de Leningrado,RU,Rusia
+24h,59.6606,31.11836,332.05,23 de April,Asentamiento de la ciudad de mgin,Región de Leningrado,RU,Rusia
+24h,59.50901,29.82227,335.42,23 de April,Asentamiento rural isabelino,Región de Leningrado,RU,Rusia
+24h,59.9199,32.32428,328.56,23 de April,Volkhov,Región de Leningrado,RU,Rusia
+24h,59.93118,32.35751,334.68,23 de April,Volkhov,Región de Leningrado,RU,Rusia
+24h,59.38465,28.46515,325.64,23 de April,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,59.93673,32.31598,341.93,23 de April,Volkhov,Región de Leningrado,RU,Rusia
+24h,59.48044,29.01052,330.71,23 de April,Asentamiento rural de bolchevrud,Región de Leningrado,RU,Rusia
+24h,59.38303,28.27938,367,23 de April,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,59.38408,28.28592,355.08,23 de April,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,59.87461,31.63468,326.49,23 de April,Asentamiento de la ciudad de Nazievsky,Región de Leningrado,RU,Rusia
+24h,59.72259,29.81386,327.07,23 de April,Asentamiento rural de Ropshinsky,Región de Leningrado,RU,Rusia
+24h,59.78136,28.5007,332.18,23 de April,Asentamiento rural de Vistinsky,Región de Leningrado,RU,Rusia
+24h,59.79198,28.50143,330.96,23 de April,Asentamiento rural de Vistinsky,Región de Leningrado,RU,Rusia
+24h,34.9795,5.71772,334.53,23 de April,Branis ⴱⵔⴰⵏⵉⵙ برانيس,Biskra ⴱⴻⵙⴽⵔⴰ Biskra,DZ,Argelia
+24h,36.86948,6.98465,336.91,23 de April,Hamadi Krouma ⵃⴻⵎⵎⴰⴷⵉ ⴽⵔⵓⵎⴰ Hammadi Karma,Skikda ⵙⴽⵉⴽⴷⴰ skikda,DZ,Argelia
+24h,36.38507,1.95704,330.25,23 de April,Afiliación,Aïn defla ⵄⵉⵏ ⴷⴻⴼⵍⴰ ain defla,DZ,Argelia
+24h,35.80833,-0.23828,354.1,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,49.85446,24.11371,367,23 de April,Comunidad de Lviv City,Región de LVIV,UA,Ucrania
+24h,49.85433,24.10757,336.77,23 de April,Lviv,Región de LVIV,UA,Ucrania
+24h,50.88099,25.30561,343.55,23 de April,Comunidad de la ciudad de Lutsk,Región de volin,UA,Ucrania
+24h,50.88094,25.29843,328.42,23 de April,Comunidad de la ciudad de Rozhysche,Región de volin,UA,Ucrania
+24h,51.32874,26.07111,338.38,23 de April,Comunidad de la aldea Rafalivska,Región de Rivne,UA,Ucrania
+24h,54.33413,21.39696,330.69,23 de April,Zverevo,Región de Kaliningrado,RU,Rusia
+24h,54.33319,21.39953,328.66,23 de April,Zverevo,Región de Kaliningrado,RU,Rusia
+24h,54.46605,21.86827,327.8,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.51725,21.76777,331.55,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.59795,20.53454,335.63,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.61428,20.6344,336.2,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.74012,22.60057,329.95,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.75155,22.35194,325.02,23 de April,Primavera,Región de Kaliningrado,RU,Rusia
+24h,54.77827,22.84663,342.21,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.77594,22.84462,333.04,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.76157,21.17363,351.11,23 de April,Un abundante,Región de Kaliningrado,RU,Rusia
+24h,54.80305,22.78567,330.46,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.808839999999996,22.79823,343.43,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.80864,22.78539,336.1,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.81443,22.79795,353.18,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.82003,22.79775,334.44,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.92857,22.70998,339.77,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,54.99332,22.07885,344.92,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,55.00294,22.28541,367,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,55.00307,22.29158,344.07,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,55.02557,22.05899,326.23,23 de April,Nomanal,Región de Kaliningrado,RU,Rusia
+24h,55.00738,21.33904,330.74,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,55.16367,21.28951,354.47,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,55.16773,21.2862,333.97,23 de April,NA,Región de Kaliningrado,RU,Rusia
+24h,56.59621,28.34117,345.17,23 de April,Volost suburbano,Región de pskov,RU,Rusia
+24h,57.1527,29.94096,367,23 de April,Asentamiento rural de Chikhachevsky,Región de pskov,RU,Rusia
+24h,57.15374,29.94493,337.95,23 de April,Asentamiento rural de Chikhachevsky,Región de pskov,RU,Rusia
+24h,57.15436,29.93191,356.04,23 de April,Asentamiento rural de Chikhachevsky,Región de pskov,RU,Rusia
+24h,58.12031,30.40507,335,23 de April,NA,Región de novgorod,RU,Rusia
+24h,58.11959,30.41912,356.03,23 de April,NA,Región de novgorod,RU,Rusia
+24h,58.41542,28.70037,342.66,23 de April,Maryinsky Volost,Región de pskov,RU,Rusia
+24h,58.42229,28.70162,327.56,23 de April,Maryinsky Volost,Región de pskov,RU,Rusia
+24h,58.42149,28.69199,343.44,23 de April,Maryinsky Volost,Región de pskov,RU,Rusia
+24h,58.5864,29.60841,325.61,23 de April,Asentamiento rural de serebryanskoye,Región de Leningrado,RU,Rusia
+24h,59.15934,28.23592,334.5,23 de April,Asentamiento rural de Chernovsky,Región de Leningrado,RU,Rusia
+24h,59.1599,28.24242,341.36,23 de April,Asentamiento rural de Chernovsky,Región de Leningrado,RU,Rusia
+24h,59.38375,28.29289,338.44,23 de April,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,59.38416,28.28121,338.52,23 de April,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,59.38463,28.28768,367,23 de April,Asentamiento rural bolshelucio,Región de Leningrado,RU,Rusia
+24h,60.6994,28.88643,344.36,23 de April,Asentamiento rural de Goncharovskoye,Región de Leningrado,RU,Rusia
+24h,60.69802,28.88926,327.59,23 de April,Asentamiento rural de Goncharovskoye,Región de Leningrado,RU,Rusia
+24h,35.80819,-0.25331,344.17,23 de April,Bethioua ⴱⴻⵟⵟⵉⵡⴰ Bataya,Oran ⵡⴻⵀⵔⴰⵏ Oran,DZ,Argelia
+24h,36.43226,2.49091,337.29,23 de April,Hirviente,Tipaza Tipaza,DZ,Argelia
